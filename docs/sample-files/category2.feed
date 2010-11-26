@@ -1,0 +1,815 @@
+<feed xmlns="http://www.w3.org/2005/Atom"><title type="text">AP Online Top General Short Headlines</title><id>urn:uuid:680e7397-71d4-4bd2-8c62-2052190c20b7</id><updated>2010-09-01T13:49:30Z</updated><link rel="self" type="application/atom+xml" href="http://developerapi.ap.org/v2/Categories.svc/"/><entry><id>urn:uuid:c06f009c-7292-40e9-bf84-83f8c5888947</id><title type="text">Tourists quit NC islands as Earl nears East Coast</title><updated>2010-09-01T13:17:30Z</updated><author><name>TOM BREEN</name></author><link rel="alternate" type="text/html" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-Tropical-Weather/id-pc06f009c729240e9bf8483f8c5888947"/><category term="6c6377e8882f10048fab8bb2970c7204" label="Hurricanes" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="5fc806a87df7100483ebdf092526b43e" label="Weather" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="d3d7a339e8c4488f82f050b5d857f1bf" label="Travel" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="b63124d793e14525a2fa3e645f679266" label="Hotels and resorts" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="340f76e5585d48759d22db3e71dc80ef" label="Leisure travel" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="3c1657788d51100486de99a6f6172603" label="Labor Day" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="58ad538091c7100480a9a55c96277d3e" label="Evacuations" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="31711ec0894b10048983ba0a2b2ca13e" label="Accidents and disasters" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="7448dd4882a0100481dddf092526b43e" label="Natural disasters" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="7aa20c78898a10048852d56c852d093e" label="Vacation homes" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="dc90ffa0686948409257760cc35e98eb" label="Tropical cyclones" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="f25af2d07e4e100484f5df092526b43e" label="General news" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="dc90ffa0686948409257760cc35e98eb" label="Tropical cyclones" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="88c2a7e08886100487fecb8225d5863e" label="Storms" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="3e37e4b87df7100483d5df092526b43e" label="Lifestyle" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ebf65eb08985100485c6bc885dbc3010" label="Accommodations" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="b0afc6388986100486bbbc885dbc3010" label="Holidays" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="e02cec40898310048337bc885dbc3010" label="Occasions" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="3b6ef8c07d7010048463ba7fa5283c3e" label="Disaster planning and response" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="e02cec40898310048336bc885dbc3010" label="Residential real estate" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="7aa20c78898a10048852d56c852d093e" label="Vacation homes" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="TCA" label="Turks and Caicos Islands" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="USA" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="4a2c3c6a72b74302b1e6bf381d11fd50" label="Kathleen Miller" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="c01d179082c610048813df092526b43e" label="North Carolina" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="6618c9f87d5b10048203c076b8e3055c" label="Caribbean" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e48387d5b10048291c076b8e3055c" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661a77a87d5b1004822fc076b8e3055c" label="Turks and Caicos Islands" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="eaed376082c71004892cdf092526b43e" label="Virginia" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f7c076b8e3055c" label="North America" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f5c076b8e3055c" label="Latin America and Caribbean" scheme="http://topics.ap.org/v1/Tags.svc"/><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div class="hnews hentry item">
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/cf0b411abc07320ed50e6a70670075cb?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=Voi4qbW%2bSfObhJ7sFKa9ODfcRCI%3d">
+      <img border="0" class="photo" alt="This image provided by NASA shows Hurricane Earl taken by astronaut Douglas Wheelock aboard the International Space Station and posted Aug. 31, 2010. Earl was expected to remain over the open ocean before turning north and running parallel to the East Coast, bringing high winds and heavy rain to North Carolina's Outer Banks by late Thursday or early Friday. (AP Photo/NASA)" src="http://ap.photos.prod.s3.amazonaws.com/35e23c46bc08320ed50e6a706700cc3c?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=EB%2ft6M8E0E5WlQbg2EzMLtJxcqs%3d" />
+    </a>
+    <div class="fn">Space Station Hurricane Earl</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/dc475759baee2d0ed50e6a706700680a?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=beXp7aBl5h4Gb%2fOOvMyf8tvZnLU%3d">
+      <img border="0" class="photo" alt="This image provided by NASA shows Hurricane Earl, lower right, acquired at 1:00 a.m. EDT Wednesday Sept. 1, 2010. At 11 p.m. EDT Tuesday the center of Hurricane Earl was located about 910 miles south-southeast of Wilmington N.C. The Category 4 hurricane  was moving northwest at 15 mph with maximum sustained winds of 135 mph. (AP Photo/NASA)" src="http://ap.photos.prod.s3.amazonaws.com/b2ff8bd8baee2d0ed50e6a7067002316?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=tWQ71dkMsqaVCwlrloh3xW6m8bE%3d" />
+    </a>
+    <div class="fn">Tropical Weather</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/8c1510b19f450c0ed50e6a7067004961?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=9m54D5Smz1XVspYbUp5NOk0VPGY%3d">
+      <img border="0" class="photo" alt="A boy takes cover from a wave caused by the approaching of the Hurricane Earl in Fajardo, Puerto Rico, Monday, Aug. 30, 2010. Earl battered some islands across the northeastern Caribbean with heavy rain and roof-ripping winds Monday, rapidly intensifying into a major Category 3 storm on a path projected to menace the United States. (AP Photo/Ricardo Arduengo)" src="http://ap.photos.prod.s3.amazonaws.com/b5b815759f450c0ed50e6a7067001dd6?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=s34nqJX3NMZ5L0H4kbD4%2bTOGOm4%3d" />
+    </a>
+    <div class="fn">Puerto Rico Tropical Weather</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/c6196f869f830e0ed50e6a7067002d04?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=lg9Z0lcpZCMoz5%2fuZc%2by9SUGdwU%3d">
+      <img border="0" class="photo" alt="Army soldiers help to remove a fallen tree at the village of Liberta after the passage of Hurricane Earl near Antigua, Monday, Aug. 30, 2010. Earl battered some islands across the northeastern Caribbean with heavy rain and roof-ripping winds Monday, rapidly intensifying into a major Category 3 storm on a path projected to menace the United States. (AP Photo/Johnny Jno-Baptiste)" src="http://ap.photos.prod.s3.amazonaws.com/41b1e2529f840e0ed50e6a706700ab71?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=NXllIEuPB1KkDXB%2fr12GDSOzzLI%3d" />
+    </a>
+    <div class="fn">Antigua Tropical Weather</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/dcde31b29f7b0d0ed50e6a7067000171?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=szP0MsrBjwfCtdo3gePTW20oVOE%3d">
+      <img border="0" class="photo" alt="A street is blocked by a fallen tree after the passage of Hurricane Earl in Fitches Creek, near Antigua, Monday, Aug. 30, 2010. Earl battered some islands across the northeastern Caribbean with heavy rain and roof-ripping winds Monday, rapidly intensifying into a major Category 3 storm on a path projected to menace the United States. (AP Photo/Johnny Jno-Baptiste)" src="http://ap.photos.prod.s3.amazonaws.com/74fdf72e9f7b0d0ed50e6a706700e48b?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=5py8MS%2fliPygZySJ2Srzf%2bYF2r8%3d" />
+    </a>
+    <div class="fn">Antigua Tropical Weather</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/7e661df99f790d0ed50e6a70670095e5?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=L5KYPILao6pJXLu160Utiug4Fgg%3d">
+      <img border="0" class="photo" alt="A house is flooded as a nearby river was overflow due to the heavy rains of Hurricane Earl at Potters Village, in the outskirts of St. John's,Antigua, Monday, Aug. 30, 2010. Earl battered some islands across the northeastern Caribbean with heavy rain and roof-ripping winds Monday, rapidly intensifying into a major Category 3 storm on a path projected to menace the United States. (AP Photo/Johnny Jno-Baptiste)" src="http://ap.photos.prod.s3.amazonaws.com/5442f96c9f790d0ed50e6a706700b762?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=pKfr6fJBPX%2fKylW%2fmMZC1I4EsrI%3d" />
+    </a>
+    <div class="fn">Antigua Tropical Weather</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/649459659f780d0ed50e6a7067000254?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=9l4Q4KHzG9JmgXvHgy9Ju9M23sQ%3d">
+      <img border="0" class="photo" alt="A sunken boat is seen after the passage of Hurricane Earl at the St. John's harbor, Antigua, Monday, Aug. 30, 2010. Earl battered some islands across the northeastern Caribbean with heavy rain and roof-ripping winds Monday, rapidly intensifying into a major Category 3 storm on a path projected to menace the United States. (AP Photo/Johnny Jno-Baptiste)" src="http://ap.photos.prod.s3.amazonaws.com/918f85f59f780d0ed50e6a706700a4a8?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=OZLnJKqLIzB3a7g2LKzX57u1clU%3d" />
+    </a>
+    <div class="fn">Antigua Tropical Weather</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/f37bc812bbb6310ed50e6a706700ab09?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=Krr2MqSHzBPk2n5tEr%2fDhoL3MO4%3d">
+      <img border="0" class="photo" alt="Graphic shows the location and projected path of Hurricane Earl as of 5 a.m., Wednesday." src="http://ap.photos.prod.s3.amazonaws.com/c9715976bbb6310ed50e6a7067006c32?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608162&amp;Signature=b8hbALJ9k%2fh6AD0X7Cv%2bSyrwUPg%3d" />
+    </a>
+    <div class="fn">TROPICAL WEATHER</div>
+  </div>
+  <h4>
+    <a class="url entry-title" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-Tropical-Weather/id-pc06f009c729240e9bf8483f8c5888947" rel="bookmark">Tourists quit NC islands as Earl nears East Coast</a>
+  </h4>
+  <div>
+    <small>  by <span class="author vcard"><a class="url fn" href="http://topics.ap.org/v1/Journalists.svc/TOM+BREEN">TOM BREEN</a></span>, <span class="source-org vcard"><a class="url org fn" href="http://www.ap.org">Associated Press</a></span><a rel="principles" title="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" href="http://www.ap.org/newsvalues/index.html"><img src="http://api.ap.org/v1/images/principles-book-blue.png " style="border-style:none;" alt="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" /></a> - <span class="updated dtstamp" title="2010-09-01T13:17:30Z">1 September 2010 13:17+00:00</span></small>
+  </div>
+  <div class="entry-content">
+    <p>
+      <abbr title="35.7721,-78.63861" class="dateline geo">RALEIGH, N.C.</abbr>  (AP) — Powerful Hurricane Earl wheeled toward the East Coast, driving the first tourists Wednesday from North Carolina vacation islands and threatening damaging winds and waves up the Atlantic seaboard over Labor Day weekend.</p>
+    <p>Visitors were taking ferries off Ocracoke Island and told to leave neighboring Cape Hatteras in North Carolina's Outer Banks, and federal authorities have warned people all along the Eastern seaboard to be prepared to evacuate. Emergency officials as far north as Maine were checking their equipment and urging people to have disaster plans and supplies ready.</p>
+    <p>Earl was still more than 700 miles south-southeast of Cape Hatteras, with top sustained winds of 125 mph. It was on track to near the North Carolina shore late Thursday or early Friday and then blow north off the coast, with forecasters cautioning that it was still too early to tell how close the storm may come to land.</p>
+    <p>Hurricane watches were out from Surf City, N.C., to Virginia's Parramore Island. Not since Hurricane Bob in 1991 has such a powerful storm had such a large swath of the East Coast in its sights, said Dennis Feltgen, spokesman for the National Hurricane Center.</p>
+    <p>"A slight shift of that track to the west is going to impact a great deal of real estate with potential hurricane-force winds," Feltgen said.</p>
+    <p>Even if Earl stays well offshore, it will kick up rough surf and dangerous rip currents up and down the coast through the Labor Day weekend, a prime time for beach vacations, forecasters said.</p>
+    <p>The only evacuation orders so far affected parts of the Outer Banks, thin strips of beach and land that face the open Atlantic.</p>
+    <p>Tourist cars, some with campers in tow, lined up for the first ferries of the day from Ocracoke to the mainland. Another car ferry connects to Hatteras, which has a bridge to the mainland and came under the second evacuation order a little later Wednesday morning.</p>
+    <p>The evacuation orders are called mandatory, but Julia Jarema, spokeswoman for the state Division of Emergency Management, said it doesn't mean people will be forced from their homes. Local law enforcement officials may do something such as going door-to-door and asking people who stay behind for their information about their next of kin.</p>
+    <p>Emergency officials said they hoped Ocracoke's 800 or so year-round residents would heed the call to leave. But Carol Paul said she and husband Tom would stay put if the current forecasts hold. Only a direct hit from a stronger storm would drive them from the island where they've lived for seven years, running an antiques store.</p>
+    <p>"There's never been a death on Ocracoke from a hurricane, so we feel pretty comfortable," Carol Paul 57, said as tourists departed on ferries and her husband, also a construction contractor, worked to board up the windows of clients and friends' homes. "Everything here is made pretty much with hurricanes in mind."</p>
+    <p>The approaching storm troubled many East Coast beach towns that had hoped to capitalize on the BP oil spill and draw visitors who normally vacation on the Gulf Coast.</p>
+    <p>On Tuesday, gusty winds from Earl's outer fringes whipped palm fronds and whistled through doors in the Turks and Caicos Islands as tied-down boats seesawed on white-crested surf.</p>
+    <p>Islanders gathered to watch big waves pound a Grand Turk shore as the wind sent sand and salt spray flying.</p>
+    <p>"We can hear the waves crashing against the reef really seriously," Kirk Graff, owner of the Captain Kirks Flamingo Cove Marina, said by telephone as he watched the darkening skies. "Anybody who hasn't secured their boats by now is going to regret it."</p>
+    <p>Carl Hanes of Newport News, Va., kept an eye on the weather report as he headed for the beach near his rented vacation home in Avon, N.C. He, his wife and their two teenage children were anticipating Earl might force them to leave on Thursday, a day ahead of schedule.</p>
+    <p>"We're trying not to let it bother us," Hanes said before enjoying the calm surf.</p>
+    <p>In Rehoboth Beach, Del., Judy Rice said she has no plans to leave the vacation home where she has spent most of the summer. In fact, the Oak Hill, Va., resident plans to walk around town in the rain if it comes.</p>
+    <p>"I kind of enjoy it actually. You know, it's battling the elements," Rice said. "I have seen the rain go sideways, and, yeah, it can be scary, but I have an old house here in Rehoboth, so it's probably more important that I am here during a storm than anywhere."</p>
+    <p>In the Florida Panhandle, which has struggled all summer to coax back tourists scared away by the Gulf oil spill, bookings were up 12 percent over last year at the Sandestin Golf and Beach Resort. The resort is nowhere near Earl's projected path, and spokeswoman Laurie Hobbs said she suspects the increase in reservations was partly because of a discount the hotel is offering and partly because of the hurricane.</p>
+    <p>"Weather drives business," she said. "They go to where the weather is best."</p>
+    <p>If Earl brings rain farther inland, it could affect the U.S. Open tennis tournament, being played now through Sept. 12 in New York City.</p>
+    <p>"We're keeping our eye on it very closely," said United States Tennis Association spokesman Chris Widmaier.</p>
+    <p>___</p>
+    <p>Associated Press Writers Martha Waggoner in Raleigh; Kathleen Miller in Washington; David Sharp in Portland, Maine; Suzette Laboy in Miami; Bob Lewis in Bristol, Va.; Vivian Tyson in Providenciales, Turks and Caicos; Ben Fox in Fajardo, Puerto Rico; Anika Kentish in St. John's, Antigua; Judy Fitzpatrick in Philipsburg, St. Maarten; and David McFadden, Mike Melia and Danica Coto in San Juan contributed to this report.</p>
+  </div>
+  <div>
+    <div class="categories">
+      <small>News Topics: <a href="http://topics.ap.org/v1/Tags.svc/Hurricanes" rel="tag">Hurricanes</a>, <a href="http://topics.ap.org/v1/Tags.svc/Weather" rel="tag">Weather</a>, <a href="http://topics.ap.org/v1/Tags.svc/Travel" rel="tag">Travel</a>, <a href="http://topics.ap.org/v1/Tags.svc/Hotels+and+resorts" rel="tag">Hotels and resorts</a>, <a href="http://topics.ap.org/v1/Tags.svc/Leisure+travel" rel="tag">Leisure travel</a>, <a href="http://topics.ap.org/v1/Tags.svc/Labor+Day" rel="tag">Labor Day</a>, <a href="http://topics.ap.org/v1/Tags.svc/Evacuations" rel="tag">Evacuations</a>, <a href="http://topics.ap.org/v1/Tags.svc/Accidents+and+disasters" rel="tag">Accidents and disasters</a>, <a href="http://topics.ap.org/v1/Tags.svc/Natural+disasters" rel="tag">Natural disasters</a>, <a href="http://topics.ap.org/v1/Tags.svc/Vacation+homes" rel="tag">Vacation homes</a>, <a href="http://topics.ap.org/v1/Tags.svc/Tropical+cyclones" rel="tag">Tropical cyclones</a>, <a href="http://topics.ap.org/v1/Tags.svc/General+news" rel="tag">General news</a>, <a href="http://topics.ap.org/v1/Tags.svc/Storms" rel="tag">Storms</a>, <a href="http://topics.ap.org/v1/Tags.svc/Lifestyle" rel="tag">Lifestyle</a>, <a href="http://topics.ap.org/v1/Tags.svc/Accommodations" rel="tag">Accommodations</a>, <a href="http://topics.ap.org/v1/Tags.svc/Holidays" rel="tag">Holidays</a>, <a href="http://topics.ap.org/v1/Tags.svc/Occasions" rel="tag">Occasions</a>, <a href="http://topics.ap.org/v1/Tags.svc/Disaster+planning+and+response" rel="tag">Disaster planning and response</a>, <a href="http://topics.ap.org/v1/Tags.svc/Residential+real+estate" rel="tag">Residential real estate</a></small>
+    </div>
+    <br />
+    <div class="entities">
+      <small>People, Places and Companies: <a href="http://topics.ap.org/v1/Tags.svc/Turks+and+Caicos+Islands" rel="tag">Turks and Caicos Islands</a>, <a href="http://topics.ap.org/v1/Tags.svc/United+States" rel="tag">United States</a>, <a href="http://topics.ap.org/v1/Tags.svc/Kathleen+Miller" rel="tag">Kathleen Miller</a>, <a href="http://topics.ap.org/v1/Tags.svc/North+Carolina" rel="tag">North Carolina</a>, <a href="http://topics.ap.org/v1/Tags.svc/Caribbean" rel="tag">Caribbean</a>, <a href="http://topics.ap.org/v1/Tags.svc/Virginia" rel="tag">Virginia</a>, <a href="http://topics.ap.org/v1/Tags.svc/North+America" rel="tag">North America</a>, <a href="http://topics.ap.org/v1/Tags.svc/Latin+America+and+Caribbean" rel="tag">Latin America and Caribbean</a></small>
+    </div>
+  </div>
+  <div class="geo">
+    <small>Lat: <span class="latitude">35.7721</span> Long: <span class="longitude">-78.63861</span></small>
+  </div>
+  <small>Copyright 2010 The <a rel="item-license" href="http://developer.ap.org/api_terms_of_use">Associated Press</a>. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</small>
+  <img src="http://analytics.apnewsregistry.com/analytics/V2/Image.svc/AP/E/prod/PC/Basic/RWS/api.ap.org/CAI/c06f009c729240e9bf8483f8c5888947/CVI/5bcda1a1f07d4943a3be43b9e5c2fb45/AT/A" width="1" height="1" alt="" />
+</div></div></content></entry><entry><id>urn:uuid:b2a1fd85-1296-4190-9729-30ac4ef3c8a0</id><title type="text">Obama: US combat in Iraq over, 'time to turn page'</title><updated>2010-09-01T03:19:45Z</updated><author><name>BEN FELLER</name></author><link rel="alternate" type="text/html" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-US-Obama/id-pb2a1fd8512964190972930ac4ef3c8a0"/><category term="86aad5207dac100488ecba7fa5283c3e" label="Government and politics" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="b1d550d087874a0393ebfa85dab5ea0a" label="Barack Obama" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="11a7894f8b404b81b0f2f352d97eaebe" label="George W. Bush" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="7295fd00913c100484c9a55c96277d3e" label="Saddam Hussein" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="dad6ac35b13c4bdb950d1842ac6daf41" label="John Boehner" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e48387d5b10048291c076b8e3055c" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661dcb387d5b1004827ec076b8e3055c" label="Iraq" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661af0c07d5b1004823cc076b8e3055c" label="Afghanistan" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f7c076b8e3055c" label="North America" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f6c076b8e3055c" label="Middle East" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="66188f607d5b100481fdc076b8e3055c" label="Central Asia" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661812607d5b100481f3c076b8e3055c" label="Asia" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="USA" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="IRQ" label="Iraq" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="AFG" label="Afghanistan" scheme="http://topics.ap.org/v1/Tags.svc"/><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div class="hnews hentry item">
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/3e9afef0b9b7280ed50e6a7067005917?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=0jroksfTsVUiRezoqyAXTF1E9NU%3d">
+      <img border="0" class="photo" alt="In this image from video, President Barack Obama speaks from the Oval Office at the White House on Tuesday, Aug. 31, 2010, about the end of the U.S. combat role in Iraq. (AP Photo/APTN)" src="http://ap.photos.prod.s3.amazonaws.com/e08c8795b9b6280ed50e6a70670034c1?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=gEta5VFpqW62uxOizkDI3NEOZa4%3d" />
+    </a>
+    <div class="fn">Obama Iraq</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/c1401f83b9e3280ed50e6a7067002fa3?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=GrSL0d8zG%2bBQleP8KQuq4SAYoxk%3d">
+      <img border="0" class="photo" alt="President Barack Obama photographed from the Rose Garden delivers a primetime televised address marking the the end of combat mission in Iraq from the Oval Office of the White House in Washington, Tuesday, Aug. 31, 2010. (AP Photo/Susan Walsh)" src="http://ap.photos.prod.s3.amazonaws.com/cf7e1ae8b9e4280ed50e6a7067000877?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=M3sSHMB5N31CisbQy43WJgv4q9o%3d" />
+    </a>
+    <div class="fn">APTOPIX Obama Iraq</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/8ffedffab9c5280ed50e6a706700ca90?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=mVuAvEh7pn5sjV68IRSnWb2INTs%3d">
+      <img border="0" class="photo" alt="President Barack Obama, photographed from the Rose Garden delivers a primetime televised address marking the the end of combat mission in Iraq from the Oval Office of the White House in Washington, Tuesday, Aug. 31, 2010. (AP Photo/Susan Walsh)" src="http://ap.photos.prod.s3.amazonaws.com/fe5843cfb9c4280ed50e6a7067009f96?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=G%2blcXKMyqSgbxAue51OtAg6w08E%3d" />
+    </a>
+    <div class="fn">Obama Iraq</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/0f1a55d2b9cb280ed50e6a706700363e?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=PwW1ZiAj37ctDasGEFbgmipxmvI%3d">
+      <img border="0" class="photo" alt="President Barack Obama reads his speech for photographers after delivering a primetime televised address marking the the end of combat mission in Iraq from the Oval Office of the White House in Washington, Tuesday, Aug. 31, 2010. (AP Photo/Susan Walsh)" src="http://ap.photos.prod.s3.amazonaws.com/cd1a2c16b9cb280ed50e6a706700b8f4?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=hbAP1vkpOp44JMX%2fBfw%2fpE7DzfY%3d" />
+    </a>
+    <div class="fn">Obama Iraq</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/27fd3327af0e260ed50e6a7067007573?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=zRNPLU8bfn933tttQlA0I7d6EWc%3d">
+      <img border="0" class="photo" alt="Graphics shows key statistics related to the war in Iraq" src="http://ap.photos.prod.s3.amazonaws.com/fad48d0baf0d260ed50e6a7067006578?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=dw7bAQS1F%2bLdf6d11KkBJjNhOfo%3d" />
+    </a>
+    <div class="fn">IRAQ WAR</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/21f897f7ae0b210ed50e6a7067002e02?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=b3HI6hPAo3N7o3C%2fipmjsZQNL5o%3d">
+      <img border="0" class="photo" alt="President Barack Obama greets members of the military at Fort Bliss in El Paso, Texas, Tuesday, Aug. 31, 2010. (AP Photo/Pablo Martinez Monsivais)" src="http://ap.photos.prod.s3.amazonaws.com/e5b03cedae0a210ed50e6a7067006d02?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=qX%2bzV92eBWmrrwY3MGIOtXN7B8Q%3d" />
+    </a>
+    <div class="fn">Obama</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/c23127b2ae11210ed50e6a70670077ee?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=DnFxc2ZKnfOnI7gGc11dMsPuUs0%3d">
+      <img border="0" class="photo" alt="President Barack Obama greets members of the military at Fort Bliss in El Paso, Texas, Tuesday, Aug. 31, 2010. (AP Photo/Pablo Martinez Monsivais)" src="http://ap.photos.prod.s3.amazonaws.com/811a166dae12210ed50e6a7067000b6f?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=mabPjV9FIdUN%2b%2b3bS1yFnTQTmJU%3d" />
+    </a>
+    <div class="fn">Obama</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/1ef63469ae12210ed50e6a706700942a?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=gDbFd%2biubv%2bUJg16Q7DnzlSeLt4%3d">
+      <img border="0" class="photo" alt="President Barack Obama hugs an unidentified woman as he greets members of the military and their family members at Fort Bliss in El Paso, Texas, Tuesday, Aug. 31, 2010. (AP Photo/Pablo Martinez Monsivais)" src="http://ap.photos.prod.s3.amazonaws.com/9d4df49bae12210ed50e6a7067003dca?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608163&amp;Signature=KxC3FhEuTYjf7lxYBn4jdYOZR3A%3d" />
+    </a>
+    <div class="fn">Obama</div>
+  </div>
+  <h4>
+    <a class="url entry-title" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-US-Obama/id-pb2a1fd8512964190972930ac4ef3c8a0" rel="bookmark">Obama: US combat in Iraq over, 'time to turn page'</a>
+  </h4>
+  <div>
+    <small>  by <span class="author vcard"><a class="url fn" href="http://topics.ap.org/v1/Journalists.svc/BEN+FELLER">BEN FELLER</a></span>, <span class="source-org vcard"><a class="url org fn" href="http://www.ap.org">Associated Press</a></span><a rel="principles" title="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" href="http://www.ap.org/newsvalues/index.html"><img src="http://api.ap.org/v1/images/principles-book-blue.png " style="border-style:none;" alt="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" /></a> - <span class="updated dtstamp" title="2010-09-01T03:19:45Z">1 September 2010 03:19+00:00</span></small>
+  </div>
+  <div class="entry-content">
+    <p>
+      <abbr title="38.89511,-77.03637" class="dateline geo">WASHINGTON</abbr>  (AP) — Claiming no victory, President Barack Obama formally ended the U.S. combat role in Iraq after seven long years of bloodshed, declaring firmly Tuesday night: "It's time to turn the page." Now, he said, the nation's most urgent priority is fixing its own sickly economy.</p>
+    <p>From the Oval Office, where George W. Bush first announced the invasion that would come to define his presidency, Obama addressed millions who were divided over the war in his country and around the world. Fiercely opposed to the war from the start, he said the United States "has paid a huge price" to give Iraqis the chance to shape their future — a cost that now includes more than 4,400 troops dead, tens of thousands more wounded and hundreds of billions of dollars spent.</p>
+    <p>In a telling sign of the domestic troubles weighing on the United States and his own presidency, Obama turned much of the emphasis in a major war address to the dire state of U.S. joblessness. He said the Iraq war had stripped America of money needed for its own prosperity, and he called for an economic commitment at home to rival the grit and purpose of a military campaign.</p>
+    <p>In his remarks of slightly less than 20 minutes, only his second address from the Oval Office, Obama looked directly into the TV camera, hands clasped in front of him on his desk, family photos and the U.S. and presidential flags behind him. His tone was somber.</p>
+    <p>Even as he turns control of the war over to the Iraqis — and tries to cap one of the most divisive chapters in recent American history — Obama is escalating the conflict in Afghanistan. He said that winding down Iraq would allow the United States "to apply the resources necessary to go on offense" in Afghanistan, now the nation's longest war since Vietnam.</p>
+    <p>As for Iraq, for all the finality of Obama's remarks, the war is not over. More Americans are likely to die. The country is plagued by violence and political instability, and Iraqis struggle with constant shortages of electricity and water.</p>
+    <p>Obama is keeping up to 50,000 troops in Iraq for support and counterterrorism training, and the last forces are not due to leave until the end of 2011 at the latest.</p>
+    <p>As the commander in chief over a war he opposed, Obama took pains to thank troops for their sacrifice but made clear he saw the day as more the marking of a mistake ended than a mission accomplished.</p>
+    <p>He spoke of strained relations with allies, anger at home and the heaviest of wartime tolls.</p>
+    <p>"We have met our responsibility," Obama said. "Now it is time to turn the page."</p>
+    <p>To underscore his point, Obama said he had telephoned called Bush, whom he had taunted so often in the 2008 campaign, and praised the former Republican president in the heart of his speech.</p>
+    <p>"It's well known that he and I disagreed about the war from its outset," Obama said. "Yet no one could doubt President Bush's support for our troops, or his love of country and commitment to our security."</p>
+    <p>In a post-Sept. 11, 2001, world, the Iraq war began with bipartisan congressional backing — based on what turned out to be flawed intelligence — over what Bush called a "grave danger" to the world posed by Saddam Hussein. Hussein is gone and Iraqis live in greater freedom.</p>
+    <p>Yet Iraq's leaders are unable to form a new government long after March elections that left no clear winner. The uncertainty has left an opening for insurgents to pound Iraqi security forces, hardly the conditions the U.S. envisioned when Obama set the Aug. 31 transition deadline last year.</p>
+    <p>Obama pressed Iraq's leaders, saying it was time to show urgency and be accountable.</p>
+    <p>He also sought both to assure his own nation that the war was finally winding down and yet also promise Iraq and those watching across the Middle East that the U.S. was not simply walking away.</p>
+    <p>"Our combat mission is ending," he said, "but our commitment to Iraq's future is not."</p>
+    <p>The American public has largely moved on from the Iraq war. Almost forgotten is the intensity that defined the debate for much of the decade and drove people into streets in protest.</p>
+    <p>Yet what grew out of the war was something broader, Bush's doctrine of pre-emptive force against perceived threats. Running for office, Obama said the war inflamed anti-American sentiments and undermined U.S. standing in the world in addition to stealing a focus from Afghanistan.</p>
+    <p>He made mention of it again on Tuesday: "Indeed, one of the lessons of our effort in Iraq is that American influence around the world is not a function of military force alone."</p>
+    <p>The president, though, also was presented with a tricky moment — standing firm in his position without disparaging the sacrifice and courage of those who fought.</p>
+    <p>Earlier in the day, at Fort Bliss, Texas, a post that has endured losses during the war, Obama tried to tell the stretched military that all the work and bloodshed in Iraq was not in vain. He asserted that because of the U.S. efforts in the Iraq war, "America is more secure."</p>
+    <p>Not everyone was ready to embrace the White House view of the day.</p>
+    <p>"Over the past several months, we've often heard about ending the war in Iraq but not much about winning the war in Iraq," said House Republican leader John Boehner of Ohio.</p>
+    <p>Boehner said that congressional leaders who opposed the troop surge that led to advances in Iraq are now taking credit for it.</p>
+    <p>"Today we mark not the defeat those voices anticipated — but progress," Boehner said in an address to the American Legion's national convention in Milwaukee.</p>
+  </div>
+  <div>
+    <div class="categories">
+      <small>News Topics: <a href="http://topics.ap.org/v1/Tags.svc/Government+and+politics" rel="tag">Government and politics</a></small>
+    </div>
+    <br />
+    <div class="entities">
+      <small>People, Places and Companies: <a href="http://topics.ap.org/v1/Tags.svc/Barack+Obama" rel="tag">Barack Obama</a>, <a href="http://topics.ap.org/v1/Tags.svc/George+W.+Bush" rel="tag">George W. Bush</a>, <a href="http://topics.ap.org/v1/Tags.svc/Saddam+Hussein" rel="tag">Saddam Hussein</a>, <a href="http://topics.ap.org/v1/Tags.svc/John+Boehner" rel="tag">John Boehner</a>, <a href="http://topics.ap.org/v1/Tags.svc/United+States" rel="tag">United States</a>, <a href="http://topics.ap.org/v1/Tags.svc/Iraq" rel="tag">Iraq</a>, <a href="http://topics.ap.org/v1/Tags.svc/Afghanistan" rel="tag">Afghanistan</a>, <a href="http://topics.ap.org/v1/Tags.svc/North+America" rel="tag">North America</a>, <a href="http://topics.ap.org/v1/Tags.svc/Middle+East" rel="tag">Middle East</a>, <a href="http://topics.ap.org/v1/Tags.svc/Central+Asia" rel="tag">Central Asia</a>, <a href="http://topics.ap.org/v1/Tags.svc/Asia" rel="tag">Asia</a></small>
+    </div>
+  </div>
+  <div class="geo">
+    <small>Lat: <span class="latitude">38.89511</span> Long: <span class="longitude">-77.03637</span></small>
+  </div>
+  <small>Copyright 2010 The <a rel="item-license" href="http://developer.ap.org/api_terms_of_use">Associated Press</a>. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</small>
+  <img src="http://analytics.apnewsregistry.com/analytics/V2/Image.svc/AP/E/prod/PC/Basic/RWS/api.ap.org/CAI/b2a1fd8512964190972930ac4ef3c8a0/CVI/9e6816c83ac841f099e2d8a8a14ba2cd/AT/A" width="1" height="1" alt="" />
+</div></div></content></entry><entry><id>urn:uuid:2155680a-e118-4a8f-8e21-149f4f5fdfe8</id><title type="text">US changes military commanders in Iraq</title><updated>2010-09-01T13:36:58Z</updated><author><name>REBECCA SANTANA</name></author><link rel="alternate" type="text/html" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-ML-Iraq/id-p2155680ae1184a8f8e21149f4f5fdfe8"/><category term="535db1708832100484dbae2ac3a6923e" label="Troop withdrawals" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="e0982188886e100489abcb8225d5863e" label="Military leadership" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="86aad5207dac100488ecba7fa5283c3e" label="Government and politics" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="7cf243908830100481e9ae2ac3a6923e" label="War and unrest" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="f25af2d07e4e100484f5df092526b43e" label="General news" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="3b7438807d7010048477ba7fa5283c3e" label="Military and defense" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="b1d550d087874a0393ebfa85dab5ea0a" label="Barack Obama" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="7295fd00913c100484c9a55c96277d3e" label="Saddam Hussein" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="646ef1696adc45cdae827375b25fd0fc" label="Raymond T. Odierno" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="42fcd5108d2610048a34f7ae5e3ffd3e" label="Joe Biden" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="6e997b488d4d100486ada55c96277d3e" label="Robert Gates" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="bd82b5f88f0510048c43a55c96277d3e" label="Mike Mullen" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="11a7894f8b404b81b0f2f352d97eaebe" label="George W. Bush" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ee8f21108d6410048d42a55c96277d3e" label="Nouri al-Maliki" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="d9a777a07f51100480b9df092526b43e" label="Baghdad" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661dcb387d5b1004827ec076b8e3055c" label="Iraq" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e48387d5b10048291c076b8e3055c" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f6c076b8e3055c" label="Middle East" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f7c076b8e3055c" label="North America" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="IRQ" label="Iraq" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="USA" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div class="hnews hentry item">
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/f4d02e25bb9d310ed50e6a706700448f?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=znoQuDn4MRWzxYChdrPMXKOPRAk%3d">
+      <img border="0" class="photo" alt="US Defence Secretary Robert Gates prepares to speak with troops from the 4th Infantry Brigade, 3rd Infantry Division, while visiting Camp Ramadi in Iraq, Wednesday Sept. 1, 2010. Gates is here to meet with U.S. troops as they formally close down their combat mission. (AP Photo/Jim Watson, Pool)" src="http://ap.photos.prod.s3.amazonaws.com/7ff8f21dbb9e310ed50e6a7067003731?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=8blUkTZVrFGzLtg4WvuUE6GbqJM%3d" />
+    </a>
+    <div class="fn">Iraq US</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/f566b8d9bb302f0ed50e6a706700b02c?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=o6Yo%2bPrUXghTWs%2bw2YSGiX%2b1YUE%3d">
+      <img border="0" class="photo" alt="An Iraqi man and his wife watch U.S. President Barack Obama's televised speech in Baghdad, Iraq, Wednesday, Sept. 1, 2010. Obama kept a promise but took a risk in boldly declaring an end to 7 1/2 years of war in Iraq and asserting that America had turned the page both at home and abroad on the costly, divisive conflict. (AP Photo/Karim Kadim)" src="http://ap.photos.prod.s3.amazonaws.com/c9a0c18abb302f0ed50e6a706700ff25?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=4OUGEo39pjFuYKky9LBaIgDL8Ec%3d" />
+    </a>
+    <div class="fn">Iraq Obama</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/cc4e1c91bb082e0ed50e6a7067007048?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=xcSLapJKhkBzg%2bdNSERRuf7gXBg%3d">
+      <img border="0" class="photo" alt="U.S. Defense Secretary Robert Gates walks off his plane at Al-Assad Air Base in Iraq, Wednesday, Sept. 1, 2010. Gates is here to meet with U.S. troops as they formally close down their combat mission. (AP Photo/Jim Watson, Pool)" src="http://ap.photos.prod.s3.amazonaws.com/36fb0a3ebb092e0ed50e6a7067001ae7?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=lOqh3g4Ar%2fXu2YwWlJV6OfLUyEY%3d" />
+    </a>
+    <div class="fn">Iraq US</div>
+  </div>
+  <h4>
+    <a class="url entry-title" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-ML-Iraq/id-p2155680ae1184a8f8e21149f4f5fdfe8" rel="bookmark">US changes military commanders in Iraq</a>
+  </h4>
+  <div>
+    <small>  by <span class="author vcard"><a class="url fn" href="http://topics.ap.org/v1/Journalists.svc/REBECCA+SANTANA">REBECCA SANTANA</a></span>, <span class="source-org vcard"><a class="url org fn" href="http://www.ap.org">Associated Press</a></span><a rel="principles" title="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" href="http://www.ap.org/newsvalues/index.html"><img src="http://api.ap.org/v1/images/principles-book-blue.png " style="border-style:none;" alt="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" /></a> - <span class="updated dtstamp" title="2010-09-01T13:36:58Z">1 September 2010 13:36+00:00</span></small>
+  </div>
+  <div class="entry-content">
+    <p>
+      <abbr title="33.33861,44.39389" class="dateline geo">BAGHDAD</abbr>  (AP) — The United States changed commanders in Iraq Wednesday, beginning the final phase of American military involvement in the country despite political uncertainty and persistent violence.</p>
+    <p>The transfer of authority came a day after President Barack Obama announced the shift from combat operations to preparing Iraqi forces to assume responsibility for their own security. Obama made clear in Tuesday's speech that this was no victory celebration.</p>
+    <p>A six-month stalemate over forming a new Iraqi government has raised concerns about the country's stability and questions over whether the leadership can cope with a diminished but still dangerous insurgency.</p>
+    <p>Newly promoted Army Gen. Lloyd Austin also maintained a somber tone as he took the reins of the some 50,000 American troops who remain in Iraq, with a deadline for a full withdrawal by the end of next year.</p>
+    <p>He noted "hostile enemies" continue to threaten Iraq and pledged that "our national commitment to Iraq will not change."</p>
+    <p>"Although challenges remain, we will face these challenges together," Austin said during the ceremony at the opulent al-Faw palace that was a former hunting lodge for ousted dictator Saddam Hussein.</p>
+    <p>Austin, who most recently served in Iraq as commander of troop operations from 2008-09, replaces Gen. Ray Odierno, who is heading to Virginia to take over the Joint Forces Command after a total of about five years in Iraq.</p>
+    <p>Vice President Joe Biden, Defense Secretary Robert Gates, and Joint Chiefs Chairman Adm. Mike Mullen presided over the ceremony, which was held at the main U.S. military headquarters on the southwestern outskirts of Baghdad.</p>
+    <p>Gates, visiting American troops in the Iraqi city of Ramadi Wednesday, said history will judge whether the fight was worth it for the United States.</p>
+    <p>"The problem with this war, I think, for many Americans, is that the premise on which we justified going to war turned out not to be valid," he said. "Even if the outcome is a good one from the standpoint of the United States, it'll always be clouded by how it began."</p>
+    <p>Claiming that Saddam had weapons of mass destruction, then-President George W. Bush ordered the invasion with approval of a Congress that was still reeling from the 9/11 attacks. But Bush's claims were based on faulty intelligence, and the weapons were never found.</p>
+    <p>Obama declared an end to combat in an Oval Office speech Tuesday night and praised American forces for their work. He acknowledged the ambiguous nature of the war in which American forces quickly ousted Saddam but were never able to fully control the Sunni Muslim insurgency against the Shiite-dominated establishment that even now threatens to re-ignite.</p>
+    <p>Still, he said the time had come to close this divisive chapter in U.S. history.</p>
+    <p>"We have met our responsibility," Obama said. "Now it is time to turn the page."</p>
+    <p>Avoiding any hint of claiming victory in a war he once called a major mistake, the president recognized the sacrifices of America's military. More than 4,400 American troops and an estimated 100,000 Iraqis were killed and it cost billions of dollars.</p>
+    <p>Iraqi Prime Minister Nouri al-Maliki, a Shiite, said Tuesday the end of combat operations as a return to sovereignty and independence for the hobbled country, and tried to reassure his people that their own security forces can defend them.</p>
+    <p>Iraqi forces on Wednesday appeared to be on heightened alert, spread out at checkpoints across the city intended to reassure the populace and ward off insurgent attacks.</p>
+    <p>Just under 50,000 U.S. troops remain in Iraq — down from a peak of about 170,000 at the height in 2007. Those forces will not be able to go on combat missions unless requested and accompanied by Iraqi forces. The last combat brigade left Iraq earlier this month and the remaining units are being called advise and assist brigades by the U.S. military.</p>
+    <p>But drawing a line between what is and is not combat may not be easy. All American forces carry weapons, can protect themselves and their bases and still come under attack from insurgents near daily. Earlier this month, for example, Sgt. Brandon E. Maggart, 24, of Kirksville, Mo. Was killed near the southern city of Basra on Aug. 22 — a few days after the last combat brigade rolled across the border into Kuwait.</p>
+    <p>Iraq is also far from the stable democracy once depicted by the Bush administration and hoped for by Obama when he laid out his timeline for withdrawing American troops shortly after he took office in 2009.</p>
+    <p>Half a year has passed since Iraq's March 7 elections which failed to produce a clear winner, and the country's political leaders have so far failed to form a new government.</p>
+    <p>Anthony Cordesman, a former director of intelligence assessment in the Pentagon, warned in a new report that Iraq is at a critical time and its fate rests on a successful transition of power.</p>
+    <p>"The withdrawal is far from over, the Iraq war is not over, it is not 'won,' and any form of stable end state in Iraq is probably impossible before 2020," Cordesman warned.</p>
+    <p>While Iraqis are generally happy to see the U.S. military pulling back, they also feel that the troop withdrawal is premature because security forces are a top target for militants. Iraqis also say they fear their country will revert to a dictatorship or split along religious and ethnic fault lines without U.S. military support.</p>
+    <p>"I hope that the American troops will leave Iraq, but not for the time being," Baghdad resident Fadhil Hashim said Wednesday.</p>
+    <p>___</p>
+    <p>AP National Security Correspondent Anne Gearan in Ramadi and AP Writer Barbara Surk in Baghdad contributed to this report.</p>
+  </div>
+  <div>
+    <div class="categories">
+      <small>News Topics: <a href="http://topics.ap.org/v1/Tags.svc/Troop+withdrawals" rel="tag">Troop withdrawals</a>, <a href="http://topics.ap.org/v1/Tags.svc/Military+leadership" rel="tag">Military leadership</a>, <a href="http://topics.ap.org/v1/Tags.svc/Government+and+politics" rel="tag">Government and politics</a>, <a href="http://topics.ap.org/v1/Tags.svc/War+and+unrest" rel="tag">War and unrest</a>, <a href="http://topics.ap.org/v1/Tags.svc/General+news" rel="tag">General news</a>, <a href="http://topics.ap.org/v1/Tags.svc/Military+and+defense" rel="tag">Military and defense</a></small>
+    </div>
+    <br />
+    <div class="entities">
+      <small>People, Places and Companies: <a href="http://topics.ap.org/v1/Tags.svc/Barack+Obama" rel="tag">Barack Obama</a>, <a href="http://topics.ap.org/v1/Tags.svc/Saddam+Hussein" rel="tag">Saddam Hussein</a>, <a href="http://topics.ap.org/v1/Tags.svc/Raymond+T.+Odierno" rel="tag">Raymond T. Odierno</a>, <a href="http://topics.ap.org/v1/Tags.svc/Joe+Biden" rel="tag">Joe Biden</a>, <a href="http://topics.ap.org/v1/Tags.svc/Robert+Gates" rel="tag">Robert Gates</a>, <a href="http://topics.ap.org/v1/Tags.svc/Mike+Mullen" rel="tag">Mike Mullen</a>, <a href="http://topics.ap.org/v1/Tags.svc/George+W.+Bush" rel="tag">George W. Bush</a>, <a href="http://topics.ap.org/v1/Tags.svc/Nouri+al-Maliki" rel="tag">Nouri al-Maliki</a>, <a href="http://topics.ap.org/v1/Tags.svc/Baghdad" rel="tag">Baghdad</a>, <a href="http://topics.ap.org/v1/Tags.svc/Iraq" rel="tag">Iraq</a>, <a href="http://topics.ap.org/v1/Tags.svc/United+States" rel="tag">United States</a>, <a href="http://topics.ap.org/v1/Tags.svc/Middle+East" rel="tag">Middle East</a>, <a href="http://topics.ap.org/v1/Tags.svc/North+America" rel="tag">North America</a></small>
+    </div>
+  </div>
+  <div class="geo">
+    <small>Lat: <span class="latitude">33.33861</span> Long: <span class="longitude">44.39389</span></small>
+  </div>
+  <small>Copyright 2010 The <a rel="item-license" href="http://developer.ap.org/api_terms_of_use">Associated Press</a>. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</small>
+  <img src="http://analytics.apnewsregistry.com/analytics/V2/Image.svc/AP/E/prod/PC/Basic/RWS/api.ap.org/CAI/2155680ae1184a8f8e21149f4f5fdfe8/CVI/6acbe3c1feb64752ad1966818b6c4131/AT/A" width="1" height="1" alt="" />
+</div></div></content></entry><entry><id>urn:uuid:5420f2d9-b510-47cb-9f82-9cc81483643a</id><title type="text">Obama opens long-shot talks on Mideast peace</title><updated>2010-09-01T07:13:31Z</updated><author><name>ROBERT BURNS</name></author><link rel="alternate" type="text/html" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-US-US-Mideast-Talks/id-p5420f2d9b51047cb9f829cc81483643a"/><category term="ac956b58883110048419ae2ac3a6923e" label="Territorial disputes" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="4e0e74988832100484d2ae2ac3a6923e" label="Peace treaties" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="86aad5207dac100488ecba7fa5283c3e" label="Government and politics" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="7cf243908830100481e9ae2ac3a6923e" label="War and unrest" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="f25af2d07e4e100484f5df092526b43e" label="General news" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="50a2e7d07de6100481e7df092526b43e" label="Treaties" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="4e9940d87de6100481e3df092526b43e" label="International agreements" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="86c049507dac10048982ba7fa5283c3e" label="International relations" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="b1d550d087874a0393ebfa85dab5ea0a" label="Barack Obama" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="8d88432a0d344d86ab29d6eb4e2955bb" label="Benjamin Netanyahu" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="3a4e58508d9c10048926a55c96277d3e" label="Mahmoud Abbas" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="8aeef63884971004875f91f43387513e" label="Hillary Clinton" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ec38b9f84d5548079980ae7d33328a8c" label="Robert Gibbs" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="cf2dcdd08d6410048bb4a55c96277d3e" label="Hosni Mubarak" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="0d4dbfc8119843008fc47b74a7fdb2e1" label="George J. Mitchell" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e09b87d5b1004828bc076b8e3055c" label="Egypt" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="662253607d5b100482f4c076b8e3055c" label="West Bank" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="1d9f0a9081be100484c8df092526b43e" label="Jerusalem" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="662253607d5b100482f3c076b8e3055c" label="Gaza Strip" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="662253607d5b100482f2c076b8e3055c" label="Palestinian territories" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f6c076b8e3055c" label="Middle East" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661dcb387d5b1004827fc076b8e3055c" label="Israel" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e48387d5b10048291c076b8e3055c" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="788b364882f110048df3df092526b43e" label="District of Columbia" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e09b87d5b1004828bc076b8e3055c" label="Egypt" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="66188f607d5b100481fac076b8e3055c" label="North Africa" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661812607d5b100481f1c076b8e3055c" label="Africa" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f7c076b8e3055c" label="North America" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="EGY" label="Egypt" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="PSE" label="Palestinian territories" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ISR" label="Israel" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="USA" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div class="hnews hentry item">
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/54e489d6b9c5280ed50e6a7067008014?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=kte822I530sZ%2bsLEri%2bbSykGyhc%3d">
+      <img border="0" class="photo" alt="Israeli Prime Minister Benjamin Netanyahu meets with Secretary of State Hillary Rodham Clinton, left, at the Mayflower Hotel after his arrival in Washington, Tuesday, Aug. 31, 2010.  (AP Photo/J. Scott Applewhite)" src="http://ap.photos.prod.s3.amazonaws.com/2a1b4a42b9c5280ed50e6a70670068c9?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=qlGeb%2f4x0Fz%2bJ079XWZmdOO6Css%3d" />
+    </a>
+    <div class="fn">US Mideast Talks</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/f24b959aadd5200ed50e6a7067002504?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=di9vei4XBwVO9sTT4fZZXAOFZ4Q%3d">
+      <img border="0" class="photo" alt="Secretary of State Hillary Rodham Clinton meets with Palestinian President Mahmoud Abbas, Tuesday, Aug. 31, 2010, in Arlington, Va. (AP Photo/Alex Brandon)" src="http://ap.photos.prod.s3.amazonaws.com/67f363e0add6200ed50e6a706700e8e8?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=53JLfeKHdEex0hNzkiWO92xbzhQ%3d" />
+    </a>
+    <div class="fn">Mideast Talks</div>
+  </div>
+  <h4>
+    <a class="url entry-title" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-US-US-Mideast-Talks/id-p5420f2d9b51047cb9f829cc81483643a" rel="bookmark">Obama opens long-shot talks on Mideast peace</a>
+  </h4>
+  <div>
+    <small>  by <span class="author vcard"><a class="url fn" href="http://topics.ap.org/v1/Journalists.svc/ROBERT+BURNS">ROBERT BURNS</a></span>, <span class="source-org vcard"><a class="url org fn" href="http://www.ap.org">Associated Press</a></span><a rel="principles" title="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" href="http://www.ap.org/newsvalues/index.html"><img src="http://api.ap.org/v1/images/principles-book-blue.png " style="border-style:none;" alt="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" /></a> - <span class="updated dtstamp" title="2010-09-01T07:13:31Z">1 September 2010 07:13+00:00</span></small>
+  </div>
+  <div class="entry-content">
+    <p>
+      <abbr title="38.89511,-77.03637" class="dateline geo">WASHINGTON</abbr>  (AP) — President Barack Obama is opening a new round of Mideast peacemaking, bringing Israeli and Palestinian leaders together Wednesday for talks aimed at forging agreement within one year on a two-state solution: a sovereign Palestine and a secure Israel.</p>
+    <p>Expectations were low as Israeli Prime Minister Benjamin Netanyahu and Palestinian President Mahmoud Abbas arrived Tuesday for preparatory talks with Secretary of State Hillary Rodham Clinton, who has spent months coaxing the parties back to the bargaining table.</p>
+    <p>The talks will be the first face-to-face sessions between the Israelis and Palestinians since December 2008, but the two sides are far apart on all key issues, so major progress in the early going is seen as unlikely.</p>
+    <p>Pointing up the tensions that will probably test Obama's diplomacy, a Palestinian gunman opened fire Tuesday on an Israeli vehicle traveling near the West Bank city of Hebron, killing four passengers. The militant Hamas movement, which rejects Israel's right to exist and opposes peace talks, claimed responsibility. Israeli officials called the shooting an attempt to sabotage the discussions and the White House weighed in with its own condemnation.</p>
+    <p>"This brutal attack underscores how far the enemies of peace will go to try to block progress" in the talks, White House press secretary Robert Gibbs said in a strongly-worded statement. "It is crucial that the parties persevere, keep moving forward even through difficult times, and continue working to achieve a just and lasting peace in the region that provides security for all peoples."</p>
+    <p>In remarks to reporters before their meeting Tuesday evening at a Washington hotel, Netanyahu, with Clinton at his side, said: "We will not let terror decide where Israelis live or the configuration of our final borders. These and other issues will be determined in negotiations for peace that we are conducting and in these negotiations."</p>
+    <p>Clinton was equally defiant.</p>
+    <p>"We pledge to do all we can always to protect and defend the state of Israel and to provide security to the Israeli people," she said. "That is one of the paramount objectives that Israel has and the United States supports in these negotiations."</p>
+    <p>West Bank settlers said Wednesday they will break a government freeze on construction in their communities to protest the attack.</p>
+    <p>On Wednesday, Abbas and Netanyahu were to meet separately with Obama. Then, joined by Jordan's King Abdullah and Egyptian President Hosni Mubarak, they will attend a White House dinner intended to set the stage for the launch of formal talks a day later at the State Department. Jordan and Egypt are the only two Arab nations with peace deals with Israel.</p>
+    <p>Former Sen. George Mitchell, Obama's special Mideast peace envoy, said Tuesday that a strong argument can be made that allowing the Israeli-Palestinian conflict to continue indefinitely is more dangerous than making the hard decisions necessary for a peace agreement.</p>
+    <p>The goal of reaching a deal within one year is intended, Mitchell said, to counter a sense among many in the Mideast that years of inconclusive negotiations mean the process is never-ending.</p>
+    <p>"It's very important to create a sense that this has a definite concluding point," Mitchell told reporters at the White House. "And we believe that it can be done."</p>
+    <p>American officials are hopeful they can at least get the two sides to agree to a second round of talks, likely to be held in the second week of September in Egypt. That could be followed by another meeting between Obama, Netanyahu and Abbas on the sidelines of the U.N. General Assembly near the end of the month, they said.</p>
+    <p>Talking to reporters on his plane heading for Washington, Abbas called for decisive American involvement in the talks. He said that if the two sides reach a deadlock, the Obama administration should present "proposals to bridge the gap between the two positions."</p>
+    <p>One major immediate challenge in the talks will be the Palestinians' demand that Israel extend a 10-month freeze on settlement construction in the West Bank. The freeze expires on Sept. 26.</p>
+    <p>The Palestinians want a state in the West Bank, Gaza and east Jerusalem — territories Israel captured in the 1967 Mideast war.</p>
+    <p>Netanyahu, under pressure from his right-wing Likud Party and hawkish coalition partners to resume building inside West Bank settlements when the freeze ends, has made no such pledge. Palestinian officials have warned that without one, the talks in Washington may be nothing more than a two-day excursion to the U.S. capital.</p>
+    <p>Beyond the settlements, Israel and the Palestinians face numerous hurdles on resolving the other issues of contention, notably the borders of a future Palestinian state, the political status of Jerusalem and the fate of Palestinian refugees.</p>
+    <p>Also complicating the outlook for peace are internal Palestinian divisions that have led to a split between Abbas' West Bank-based administration and Hamas, which is in control of Gaza. Hamas is not part of the negotiations and has asserted that talks will be futile.</p>
+    <p>___</p>
+    <p>Associated Press writer Matthew Lee contributed to this report.</p>
+  </div>
+  <div>
+    <div class="categories">
+      <small>News Topics: <a href="http://topics.ap.org/v1/Tags.svc/Territorial+disputes" rel="tag">Territorial disputes</a>, <a href="http://topics.ap.org/v1/Tags.svc/Peace+treaties" rel="tag">Peace treaties</a>, <a href="http://topics.ap.org/v1/Tags.svc/Government+and+politics" rel="tag">Government and politics</a>, <a href="http://topics.ap.org/v1/Tags.svc/War+and+unrest" rel="tag">War and unrest</a>, <a href="http://topics.ap.org/v1/Tags.svc/General+news" rel="tag">General news</a>, <a href="http://topics.ap.org/v1/Tags.svc/Treaties" rel="tag">Treaties</a>, <a href="http://topics.ap.org/v1/Tags.svc/International+agreements" rel="tag">International agreements</a>, <a href="http://topics.ap.org/v1/Tags.svc/International+relations" rel="tag">International relations</a></small>
+    </div>
+    <br />
+    <div class="entities">
+      <small>People, Places and Companies: <a href="http://topics.ap.org/v1/Tags.svc/Barack+Obama" rel="tag">Barack Obama</a>, <a href="http://topics.ap.org/v1/Tags.svc/Benjamin+Netanyahu" rel="tag">Benjamin Netanyahu</a>, <a href="http://topics.ap.org/v1/Tags.svc/Mahmoud+Abbas" rel="tag">Mahmoud Abbas</a>, <a href="http://topics.ap.org/v1/Tags.svc/Hillary+Clinton" rel="tag">Hillary Clinton</a>, <a href="http://topics.ap.org/v1/Tags.svc/Robert+Gibbs" rel="tag">Robert Gibbs</a>, <a href="http://topics.ap.org/v1/Tags.svc/Hosni+Mubarak" rel="tag">Hosni Mubarak</a>, <a href="http://topics.ap.org/v1/Tags.svc/George+J.+Mitchell" rel="tag">George J. Mitchell</a>, <a href="http://topics.ap.org/v1/Tags.svc/Egypt" rel="tag">Egypt</a>, <a href="http://topics.ap.org/v1/Tags.svc/West+Bank" rel="tag">West Bank</a>, <a href="http://topics.ap.org/v1/Tags.svc/Jerusalem" rel="tag">Jerusalem</a>, <a href="http://topics.ap.org/v1/Tags.svc/Gaza+Strip" rel="tag">Gaza Strip</a>, <a href="http://topics.ap.org/v1/Tags.svc/Palestinian+territories" rel="tag">Palestinian territories</a>, <a href="http://topics.ap.org/v1/Tags.svc/Middle+East" rel="tag">Middle East</a>, <a href="http://topics.ap.org/v1/Tags.svc/Israel" rel="tag">Israel</a>, <a href="http://topics.ap.org/v1/Tags.svc/United+States" rel="tag">United States</a>, <a href="http://topics.ap.org/v1/Tags.svc/District+of+Columbia" rel="tag">District of Columbia</a>, <a href="http://topics.ap.org/v1/Tags.svc/North+Africa" rel="tag">North Africa</a>, <a href="http://topics.ap.org/v1/Tags.svc/Africa" rel="tag">Africa</a>, <a href="http://topics.ap.org/v1/Tags.svc/North+America" rel="tag">North America</a></small>
+    </div>
+  </div>
+  <div class="geo">
+    <small>Lat: <span class="latitude">38.89511</span> Long: <span class="longitude">-77.03637</span></small>
+  </div>
+  <small>Copyright 2010 The <a rel="item-license" href="http://developer.ap.org/api_terms_of_use">Associated Press</a>. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</small>
+  <img src="http://analytics.apnewsregistry.com/analytics/V2/Image.svc/AP/E/prod/PC/Basic/RWS/api.ap.org/CAI/5420f2d9b51047cb9f829cc81483643a/CVI/4fe33afa30f04a4fb0c5eedcd9429ee3/AT/A" width="1" height="1" alt="" />
+</div></div></content></entry><entry><id>urn:uuid:b30f7673-f0af-4d64-a54f-72fbefd31f99</id><title type="text">Sen. Murkowski's defeat marks major tea party win</title><updated>2010-09-01T09:40:15Z</updated><author><name>DAN JOLING</name></author><link rel="alternate" type="text/html" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-US-Alaska-Senate/id-pb30f7673f0af4d64a54f72fbefd31f99"/><category term="86aad5207dac100488ecba7fa5283c3e" label="Government and politics" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="4984cd553956426b944a4c9a110d2de6" label="State legislature" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="86b3e5707dac10048922ba7fa5283c3e" label="Primary elections" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="86c13f687dac1004898cba7fa5283c3e" label="Legislature" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="4984cd553956426b944a4c9a110d2de6" label="State legislature" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="d5a677a889491004863cba0a2b2ca13e" label="State governments" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="86aee4307dac10048901ba7fa5283c3e" label="Elections" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="a749e0cbd74d496fa18d18e3418c563e" label="Lisa Murkowski" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="62abcba6d25f43c9b4e463e9ab74bd17" label="Sarah Palin" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="935b6fc209634838acec22bc25b5a277" label="Bob Bennett" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="cca6aed48026446f9551ada82a7b07d0" label="Christine O'Donnell" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="595d4e3b6c214156a0fca8f2e6ff548e" label="Michael Castle" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="b4325c2762a8441fba92cc700d0d191a" label="Ted Stevens" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="acf6cad2858c4c118e1a21a0507981ca" label="Arlen Specter" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="15b6c5b0dc97457595cec2d764abf301" label="Todd Palin" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="cbb727a881d610048a29df092526b43e" label="Alaska" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="de29087081d610048a45df092526b43e" label="Anchorage" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e48387d5b10048291c076b8e3055c" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f7c076b8e3055c" label="North America" scheme="http://topics.ap.org/v1/Tags.svc"/><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div class="hnews hentry item">
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/ae8f6aebbb282e0ed50e6a7067003c15?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=XF6CAyLcrC58PcJ8XgsjuIkVpDY%3d">
+      <img border="0" class="photo" alt="Fairbanks, Alaska, lawyer Joe Miller along with his wife, Kathleen, meet with the press Tuesday evening, Aug. 31, 2010, after U.S. Sen. Lisa Murkowski conceded the Republican primary to him. Miller's win was a major victory for the tea party movement and marked the first time it had defeated a sitting senator in a primary. (AP Photo/Fairbanks Daily News-Miner, Sam Harrel)**MAGS OUT NO SALES**" src="http://ap.photos.prod.s3.amazonaws.com/2686b805bb282e0ed50e6a70670062c5?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608164&amp;Signature=1%2fRN3x2rAJFQWRv2%2bkRAIcNzY9I%3d" />
+    </a>
+    <div class="fn">Alaska Senate</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/9faa5f0bbb272e0ed50e6a7067006fa9?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=OgBBrt4ucEKEaEroLOo2x%2bnRnI0%3d">
+      <img border="0" class="photo" alt="Fairbanks, Alaska, lawyer Joe Miller along with his wife, Kathleen, meet with the press Tuesday evening, Aug. 31, 2010, after U.S. Sen. Lisa Murkowski conceded the Republican primary to him. Miller's win was a major victory for the tea party movement and marked the first time it had defeated a sitting senator in a primary. (AP Photo/Fairbanks Daily News-Miner, Sam Harrel)" src="http://ap.photos.prod.s3.amazonaws.com/2712799abb282e0ed50e6a7067008a29?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=v1HhGNNJnwShxZvDAkcf7ESVQbE%3d" />
+    </a>
+    <div class="fn">Alaska Senate</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/55996dd1bb272e0ed50e6a706700f204?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=4gjVLOSs91XzvqWrT%2bZr1Wb8OTE%3d">
+      <img border="0" class="photo" alt="Fairbanks, Alaska, lawyer Joe Miller meets with the press Tuesday evening, Aug. 31, 2010, after U.S. Sen. Lisa Murkowski conceded the Republican primary to him. Miller's win was a major victory for the tea party movement and marked the first time it had defeated a sitting senator in a primary. (AP Photo/Fairbanks Daily News-Miner, Sam Harrel) **MAGS OUT NO SALES**" src="http://ap.photos.prod.s3.amazonaws.com/835fdd12bb272e0ed50e6a7067008d81?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=%2fsgP8W7%2f2GHd4EGDghxR%2bvqKXuQ%3d" />
+    </a>
+    <div class="fn">Alaska Senate</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/f369a694bb262e0ed50e6a7067001cb2?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=HWyii2XD61gdPZby7jo6Cj41294%3d">
+      <img border="0" class="photo" alt="Fairbanks, Alaska, lawyer Joe Miller meets with the press Tuesday evening, Aug. 31, 2010, after U.S. Sen. Lisa Murkowski conceded the Republican primary to him. Miller's win was a major victory for the tea party movement and marked the first time it had defeated a sitting senator in a primary. (AP Photo/Fairbanks Daily News-Miner, Sam Harrel)**MAGS OUT NO SALES**" src="http://ap.photos.prod.s3.amazonaws.com/cabf5a2cbb262e0ed50e6a7067002004?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=cdm0ND3wYCGt%2fb%2b%2fvQEDit%2f1d%2fM%3d" />
+    </a>
+    <div class="fn">Alaska Senate</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/9f0bbbc8bb262e0ed50e6a7067008ab2?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=BeD66nZu%2f1bPpuizjxadTSdWx9w%3d">
+      <img border="0" class="photo" alt="Fairbanks, Alaska, lawyer Joe Miller along with his wife, Kathleen, meet with the press Tuesday evening, Aug. 31, 2010, after U.S. Sen. Lisa Murkowski conceded the Republican primary to him. Miller's win was a major victory for the tea party movement and marked the first time it had defeated a sitting senator in a primary. (AP Photo/Fairbanks Daily News-Miner, Sam Harrel)**MAGS OUT NO SALES**" src="http://ap.photos.prod.s3.amazonaws.com/2cb908babb262e0ed50e6a70670093bd?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=tsnq65wTEnmUgmV8mT9MyUNF0Oo%3d" />
+    </a>
+    <div class="fn">Alaska Senate</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/12398165ba7c2b0ed50e6a706700c94b?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=ECt0w%2bHAkwjbhqErVPHYFaSwkaA%3d">
+      <img border="0" class="photo" alt="Sen. Lisa Murkowski gave a concession speech at her campaign headquarters in Anchorage on Tuesday, Aug. 31, 2010, one week after primary election voters picked Joe Miller to be the Alaska republican candidate for U.S. Senate. (AP Photo/The Anchorage Daily News, Bill Roth)  THE MAT-SU VALLEY FRONTIERSMAN OUT" src="http://ap.photos.prod.s3.amazonaws.com/bcff523eba7b2b0ed50e6a706700f687?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=dkGEG4pOTj%2b2Z1WxgnHL8eDOsQI%3d" />
+    </a>
+    <div class="fn">Alaska Senate</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/35b5a3adba632b0ed50e6a7067001881?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=IHQ98zOBMufSExf2uQLqYh82SDU%3d">
+      <img border="0" class="photo" alt="U.S. Sen. Lisa Murkowski, R-Alaska, gives her concession speech on Tuesday, Aug. 31, 2010, at Murkowski's campaign headquarters in Anchorage, Alaska. Murkowski trailed Miller by 1,668 votes after the Aug. 24 primary. Election officials began counting absentee and outstanding ballots Tuesday, and Murkowski made slight gains. But after more than 15,000 ballots were counted, she remained 1,630 votes behind. (AP Photo/Dan Joling)" src="http://ap.photos.prod.s3.amazonaws.com/61460ca9ba632b0ed50e6a706700db81?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=s41jZ80wqmcQ%2fbQVl9VdMRACpIY%3d" />
+    </a>
+    <div class="fn">Alaska Senate</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/36af356aba5e2b0ed50e6a7067006f50?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=Sgeww18J6FBNtuKEl66pH%2bVmttY%3d">
+      <img border="0" class="photo" alt="U.S. Sen. Lisa Murkowski gives her concession speech on Tuesday, Aug. 31, 2010, at her campaign headquarters in Anchorage, Alaska. Murkowski has conceded her Senate primary race to Joe Miller. (AP Photo/Dan Joling)" src="http://ap.photos.prod.s3.amazonaws.com/0e51d72bba5e2b0ed50e6a7067008a45?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608165&amp;Signature=DMJ9XwhyIZZeoWKBpxE4un5GZjE%3d" />
+    </a>
+    <div class="fn">Alaska Senate</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/e4ba5c4bba5d2b0ed50e6a706700514b?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=%2fFVjxgc7U2j4ueG7%2bOr1R69bfPo%3d">
+      <img border="0" class="photo" alt="U.S. Sen. Lisa Murkowski gives her concession speech on Tuesday, Aug. 31, 2010, at her campaign headquarters in Anchorage, Alaska. Murkowski has conceded her Senate primary race to Joe Miller. (AP Photo/Dan Joling)" src="http://ap.photos.prod.s3.amazonaws.com/0e779c57ba5e2b0ed50e6a706700a59f?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=zHLOG7BJIF7%2brCd1omYQgXzRFkE%3d" />
+    </a>
+    <div class="fn">Alaska Senate</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/304b8acdaf55270ed50e6a7067003df7?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=TZ0HRxo%2bpYwbLCgUVEClcnu45Bk%3d">
+      <img border="0" class="photo" alt="Regional AccuVote board member Beth Madren processes ballots on Tuesday, Aug. 31, 2010, at Alaska Division of Elections offices in Anchorage, Alaska.  The Alaska Division of Elections said it expects to count 15,272 absentee, questioned and early ballots today. They're part of at least 25,500 outstanding ballots that remain to be counted one week after Miller stunned political watchers by nearly upsetting Murkowski. (AP Photo/Dan Joling)" src="http://ap.photos.prod.s3.amazonaws.com/6292ce70af55270ed50e6a706700bd39?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=iub3Hy1tTDh%2bEA2%2fKrkNABdBVtw%3d" />
+    </a>
+    <div class="fn">Alaska Senate</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/ba526925ae9b240ed50e6a706700e51d?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=2TLQF2KY36iZgZDDnal6dW%2fKES0%3d">
+      <img border="0" class="photo" alt="Regional AccuVote board members Rica Gaines, left, and  Beth Madren process ballots on Tuesday, Aug. 31, 2010, at Alaska Division of Elections offices in Anchorage, Alaska.  The Alaska Division of Elections said it expects to count 15,272 absentee, questioned and early ballots today. They're part of at least 25,500 outstanding ballots that remain to be counted one week after Miller stunned political watchers by nearly upsetting Murkowski. (AP Photo/Dan Joling)" src="http://ap.photos.prod.s3.amazonaws.com/e4aa9c9eae9b240ed50e6a706700eedb?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=AYXx3EnGFiOe%2bhnGxQe4%2b7rNB80%3d" />
+    </a>
+    <div class="fn">Alaska Senate</div>
+  </div>
+  <h4>
+    <a class="url entry-title" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-US-Alaska-Senate/id-pb30f7673f0af4d64a54f72fbefd31f99" rel="bookmark">Sen. Murkowski's defeat marks major tea party win</a>
+  </h4>
+  <div>
+    <small>  by <span class="author vcard"><a class="url fn" href="http://topics.ap.org/v1/Journalists.svc/DAN+JOLING">DAN JOLING</a></span>, <span class="source-org vcard"><a class="url org fn" href="http://www.ap.org">Associated Press</a></span><a rel="principles" title="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" href="http://www.ap.org/newsvalues/index.html"><img src="http://api.ap.org/v1/images/principles-book-blue.png " style="border-style:none;" alt="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" /></a> - <span class="updated dtstamp" title="2010-09-01T09:40:15Z">1 September 2010 09:40+00:00</span></small>
+  </div>
+  <div class="entry-content">
+    <p>
+      <abbr title="61.21806,-149.90028" class="dateline geo">ANCHORAGE, Alaska</abbr>  (AP) — Backed by the Tea Party Express and Sarah Palin, a little-known conservative lawyer from Alaska became the latest newcomer to the national political stage to take down an incumbent in 2010.</p>
+    <p>In arguably the biggest political upset of the year, Joe Miller claimed the Republican nomination for U.S. Senate when incumbent GOP Sen. Lisa Murkowski conceded Tuesday evening.</p>
+    <p>Miller's win was a major victory for the tea party movement and marked the first time it had defeated a sitting senator in a primary.</p>
+    <p>Tea partiers had knocked off Utah Sen. Bob Bennett at a state convention in May, and emboldened organizers now have their sights set on Delaware, where they are backing Christine O'Donnell against the more moderate Rep. Mike Castle in the GOP Senate primary.</p>
+    <p>Miller, 43, told The Associated Press by phone late Tuesday that he'll campaign this fall on transferring power and control over resources from the federal government to Alaska and the other 49 states.</p>
+    <p>The state has long been heavily reliant on federal money to run — a legacy largely carved out by former Sen. Ted Stevens before his death in an August plane crash.</p>
+    <p>But the government's impending financial crisis will eventually force a reduction in funding to the state, Miller said by phone from Fairbanks.</p>
+    <p>"We have to be prepared for that, and the way to do it, of course, is to progressionally transfer holdings of the federal government to us," he said. "And of course, also by reducing federal regulatory burdens over the lands that we do control so that we can develop them more freely and more economically."</p>
+    <p>Murkowski is the third senator to lose this year amid deep dissatisfaction with the Washington establishment. Bennett and Arlen Specter, D-Pa., were the others.</p>
+    <p>She trailed Miller — an Ivy League-educated lawyer, West Point graduate and decorated Gulf War veteran — by 1,668 votes after the Aug. 24 primary.</p>
+    <p>Election officials began counting absentee and outstanding ballots Tuesday, and Murkowski made slight gains. But after more than 15,000 ballots were counted, she remained 1,630 votes behind.</p>
+    <p>"We all know that this has been a long week, a terribly long week," she said at campaign headquarters while conceding.</p>
+    <p>She said that while there were still outstanding votes, "I don't see a scenario where the primary will turn out in my favor, and that is a reality that is before me at this point in time."</p>
+    <p>"And for that reason, and for the good of the state of Alaska ... I am now conceding the race for the Republican nomination."</p>
+    <p>The stunning result was a huge validation of the political power of Palin as the former Alaska governor has been playing kingmaker in midterm elections ahead of a potential 2012 White House run.</p>
+    <p>Miller cast Murkowski as too liberal and part of the problem in an out-of-control Washington. It is a campaign strategy that has helped oust other incumbents this year and that Republicans will employ again in November as they look to take back Congress.</p>
+    <p>Miller will face Democrat Scott McAdams, a small town mayor, in the November general election. The former commercial fisherman was given little chance against Murkowski, and as of June 30 had raised less than $10,000.</p>
+    <p>But Democrats figure his chances are better against Miller, and they plan to present him as a moderate, rational alternative.</p>
+    <p>"Lisa Murkowski is a class act who always put Alaska first," McAdams said in a statement late Tuesday. "By contrast, lawyer Joe Miller ran an unfair, nasty campaign that didn't extend to Lisa Murkowski the respect she deserves."</p>
+    <p>After keeping a low profile for much of the race, Palin recorded a robocall for Miller in the campaign's final days and touted him as a "man of the people" on her Facebook page. She also repeated a claim that Murkowski had waffled on her position on repealing the federal health care overhaul — claims the senator has called false.</p>
+    <p>Aside from a failed legislative bid in 2004, the Kansas-raised Miller had no experience running in political races before jumping into the race to take on Murkowski. He is friends with Sarah and Todd Palin, and they both endorsed him.</p>
+    <p>Miller also had the blessing from within the tea party crowd. The California-based Tea Party Express said it spent nearly $600,000 to help Miller — most of that in the race's final weeks, when Miller's camp said it sensed momentum was on its side and that Miller would win.</p>
+    <p>___</p>
+    <p>Associated Press writers Becky Bohrer in Juneau and Rachel D'Oro and Mark Thiessen in Anchorage contributed to this report.</p>
+  </div>
+  <div>
+    <div class="categories">
+      <small>News Topics: <a href="http://topics.ap.org/v1/Tags.svc/Government+and+politics" rel="tag">Government and politics</a>, <a href="http://topics.ap.org/v1/Tags.svc/State+legislature" rel="tag">State legislature</a>, <a href="http://topics.ap.org/v1/Tags.svc/Primary+elections" rel="tag">Primary elections</a>, <a href="http://topics.ap.org/v1/Tags.svc/Legislature" rel="tag">Legislature</a>, <a href="http://topics.ap.org/v1/Tags.svc/State+governments" rel="tag">State governments</a>, <a href="http://topics.ap.org/v1/Tags.svc/Elections" rel="tag">Elections</a></small>
+    </div>
+    <br />
+    <div class="entities">
+      <small>People, Places and Companies: <a href="http://topics.ap.org/v1/Tags.svc/Lisa+Murkowski" rel="tag">Lisa Murkowski</a>, <a href="http://topics.ap.org/v1/Tags.svc/Sarah+Palin" rel="tag">Sarah Palin</a>, <a href="http://topics.ap.org/v1/Tags.svc/Bob+Bennett" rel="tag">Bob Bennett</a>, <a href="http://topics.ap.org/v1/Tags.svc/Christine+O%27Donnell" rel="tag">Christine O'Donnell</a>, <a href="http://topics.ap.org/v1/Tags.svc/Michael+Castle" rel="tag">Michael Castle</a>, <a href="http://topics.ap.org/v1/Tags.svc/Ted+Stevens" rel="tag">Ted Stevens</a>, <a href="http://topics.ap.org/v1/Tags.svc/Arlen+Specter" rel="tag">Arlen Specter</a>, <a href="http://topics.ap.org/v1/Tags.svc/Todd+Palin" rel="tag">Todd Palin</a>, <a href="http://topics.ap.org/v1/Tags.svc/Alaska" rel="tag">Alaska</a>, <a href="http://topics.ap.org/v1/Tags.svc/Anchorage" rel="tag">Anchorage</a>, <a href="http://topics.ap.org/v1/Tags.svc/United+States" rel="tag">United States</a>, <a href="http://topics.ap.org/v1/Tags.svc/North+America" rel="tag">North America</a></small>
+    </div>
+  </div>
+  <div class="geo">
+    <small>Lat: <span class="latitude">61.21806</span> Long: <span class="longitude">-149.90028</span></small>
+  </div>
+  <small>Copyright 2010 The <a rel="item-license" href="http://developer.ap.org/api_terms_of_use">Associated Press</a>. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</small>
+  <img src="http://analytics.apnewsregistry.com/analytics/V2/Image.svc/AP/E/prod/PC/Basic/RWS/api.ap.org/CAI/b30f7673f0af4d64a54f72fbefd31f99/CVI/36d7b0e01be6485f99eeacd678ac6cfd/AT/A" width="1" height="1" alt="" />
+</div></div></content></entry><entry><id>urn:uuid:e3df6896-521c-47c2-ae5c-e932ff15d4aa</id><title type="text">New York imam: Mosque fight about Muslim role</title><updated>2010-09-01T05:06:41Z</updated><author><name>BRIAN MURPHY</name></author><link rel="alternate" type="text/html" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-NYC-Mosque-Imam/id-pe3df6896521c47c2ae5ce932ff15d4aa"/><category term="cebaa076f6024c01a9189df36d151f4c" label="Islam" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="8751ff508728100484c5dd689ee7093e" label="Religion and politics" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="026a1118e94443a2aacc08a2e70cc77b" label="Religion" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="86aad5207dac100488ecba7fa5283c3e" label="Government and politics" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="48612b807c2b4b93bbbacbf54f547ad5" label="Crime" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="75a42fd87df7100483eedf092526b43e" label="Social affairs" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="e45ac33888bf1004846895c3593f0207" label="Religious issues" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="e45ac33888bf1004846895c3593f0207" label="Religious issues" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="08680bf085af10048c4f9a5aeba5fb06" label="Social issues" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="f25af2d07e4e100484f5df092526b43e" label="General news" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="216435988ee210048f7ca55c96277d3e" label="Michael Bloomberg" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="a8acf279094e4756a1ad2c91d0b68953" label="Peter King" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="6605ada72a7848f4953d9a914fa54602" label="Omar Abdel-Rahman" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="3a251f30ba234d49938aecd7adde1c62" label="Dubai" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="b58f18a082c6100487fbdf092526b43e" label="New York" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="b836d07082c610048807df092526b43e" label="New York City" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e09b87d5b10048288c076b8e3055c" label="United Arab Emirates" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e48387d5b10048291c076b8e3055c" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f6c076b8e3055c" label="Middle East" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f7c076b8e3055c" label="North America" scheme="http://topics.ap.org/v1/Tags.svc"/><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div class="hnews hentry item">
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/43f81d79ad981f0ed50e6a706700a527?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=JbPeUNcY5Tu5WbwTPBB%2fmGqlOsQ%3d">
+      <img border="0" class="photo" alt="Imam Feisal Abdul Rauf, right, leads the prayers during an Iftar ceremony hosts by Dubia Scholl of Government in Dubai, United Arab Emirates,Tuesday Aug. 31, 2010. (AP Photo/Kamran Jebreili)" src="http://ap.photos.prod.s3.amazonaws.com/6e1b5588ad981f0ed50e6a706700b019?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=hJpnjU8SkiXVHKNi4tJjPVxt3hQ%3d" />
+    </a>
+    <div class="fn">Emirates Imam Rauf</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/e253b784adba200ed50e6a70670030d6?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=nAFEkvIP75Y3m5rCcpuKyvTgPUk%3d">
+      <img border="0" class="photo" alt="Imam Feisal Abdul Rauf, left, walks to the podium to make his speech during an Iftar ceremony hosted by the Dubai School of Government in Dubai, United Arab Emirates, Tuesday Aug. 31, 2010. (AP Photo/Kamran Jebreili)" src="http://ap.photos.prod.s3.amazonaws.com/0cbe4cdfadbb200ed50e6a7067005bb6?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=vc2cCH1bnmLH1y6c5%2b7GLA6Be0c%3d" />
+    </a>
+    <div class="fn">Emirates Imam Rauf</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/77cacecbad9b1f0ed50e6a7067004f50?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=pQcbeiSSqHyyKKZERiOAPJNN1hg%3d">
+      <img border="0" class="photo" alt="Imam Feisal Abdul Rauf, middle,is received by officials of the Dubai School of Government during an Iftar ceremony hosts by Dubai School of Government in Dubai, United Arab Emirates,Tuesday, Aug. 31, 2010. (AP Photo/Kamran Jebreili)" src="http://ap.photos.prod.s3.amazonaws.com/cce38385ad9b1f0ed50e6a7067009000?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=qw2l6j8sxbLzaoxQC47dXeMUx7Q%3d" />
+    </a>
+    <div class="fn">Emirates Imam Rauf</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/1430984ead991f0ed50e6a706700a7e5?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=cSc%2beKTmKPOAgVQb3W9FhNbNC3c%3d">
+      <img border="0" class="photo" alt="Imam Feisal Abdul Rauf, middle, talks to Dr, Tarik Yousef, Dean of the Dubai School of Government during an Iftar ceremony hosts by Dubai School of Government in Dubai, United Arab Emirates,Tuesday Aug. 31, 2010. (AP Photo/Kamran Jebreili)" src="http://ap.photos.prod.s3.amazonaws.com/3d537592ad991f0ed50e6a706700240d?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=fh32k7zLr1VfgVTUwABWYhiDv70%3d" />
+    </a>
+    <div class="fn">Emirates Imam Rauf</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/11b50c4aadd4200ed50e6a7067008c02?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=U1dyVQHU2u3tuHnvCLgCMltkALk%3d">
+      <img border="0" class="photo" alt="Imam Feisal Abdul Rauf, right, during an Iftar ceremony hosted by Dubai School of Government in Dubai, United Arab Emirates, Tuesday Aug. 31, 2010. (AP Photo/Kamran Jebreili)" src="http://ap.photos.prod.s3.amazonaws.com/b5231222add4200ed50e6a706700c9b7?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608166&amp;Signature=psnO%2bDY8yUmkUl4nDwIhjO%2bPqhQ%3d" />
+    </a>
+    <div class="fn">Emirates Imam Rauf</div>
+  </div>
+  <h4>
+    <a class="url entry-title" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-NYC-Mosque-Imam/id-pe3df6896521c47c2ae5ce932ff15d4aa" rel="bookmark">New York imam: Mosque fight about Muslim role</a>
+  </h4>
+  <div>
+    <small>  by <span class="author vcard"><a class="url fn" href="http://topics.ap.org/v1/Journalists.svc/BRIAN+MURPHY">BRIAN MURPHY</a></span>, <span class="source-org vcard"><a class="url org fn" href="http://www.ap.org">Associated Press</a></span><a rel="principles" title="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" href="http://www.ap.org/newsvalues/index.html"><img src="http://api.ap.org/v1/images/principles-book-blue.png " style="border-style:none;" alt="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" /></a> - <span class="updated dtstamp" title="2010-09-01T05:06:41Z">1 September 2010 05:06+00:00</span></small>
+  </div>
+  <div class="entry-content">
+    <p>
+      <abbr title="25.25222,55.28" class="dateline geo">DUBAI, United Arab Emirates</abbr>  (AP) — The imam leading plans for an Islamic center near the site of the Sept. 11 attacks in New York said the fight is over more than "a piece of real estate" and could shape the future of Muslim relations in America.</p>
+    <p>The dispute "has expanded beyond a piece of real estate and expanded to Islam in America and what it means for America," Imam Feisal Abdul Rauf told a group Tuesday that included professors and policy researchers in Dubai.</p>
+    <p>Rauf suggested that the fierce challenges to the planned mosque and community center in lower Manhattan could leave many Muslim questioning their place in American political and civic life.</p>
+    <p>But he avoided questions over whether an alternative site is possible. Instead, he repeatedly stressed the need to embrace the religious and political freedoms in the United States.</p>
+    <p>"I am happy to be American," Rauf told about 200 people at the Dubai School of Government think tank.</p>
+    <p>It was his last scheduled public appearance during a 15-day State Department-funded trip to the Gulf that was intended to promote religious tolerance.</p>
+    <p>The State Department said that Rauf was returning early to the United States on Wednesday.</p>
+    <p>State Department spokesman Mark Toner said the imam was departing the United Arab Emirates on Wednesday, and will return to New York. Toner said Rauf's early return did not cause the cancellation of any programs on his State Department-funded trip.</p>
+    <p>He said he became closer to Islam after moving to America, where he had the choice to either follow the faith or drift away.</p>
+    <p>"Like many of our fellow Muslims, we found our faith in America," he said.</p>
+    <p>During his Middle East trip, Rauf generally sidestepped questions over the backlash to the Islamic center location about two blocks from the former site of the World Trade Center towers.</p>
+    <p>But in an interview published Monday in the Abu Dhabi-based newspaper The National, he linked the protests to the U.S. elections in November. Many conservatives have joined the opposition to the center, which is being spearheaded by a newly formed nonprofit organization that includes real estate developers and has named Rauf as one of the directors.</p>
+    <p>"It is important to shift the discussion from a discussion of identity politics," he said. "We have to elevate the discourse because there is more that bonds us ... in terms of mutual responsibility."</p>
+    <p>A Quinnipiac University poll released Tuesday showed 71 percent of New Yorkers want the developers to voluntarily move the project. A similar percentage also said they wanted New York's state attorney general to investigate sources of funding for the project in lower Manhattan.</p>
+    <p>Mayor Michael Bloomberg said an investigation would set "a terrible precedent."</p>
+    <p>"You don't want them investigating donations to religious organizations and there's no reason for the government to do so," he said.</p>
+    <p>He also played down the fact that the developers of the building where the center would be established owe over $200,000 in back taxes on the property. "They're going to be treated like everybody else," he said. "We enforce the law against everybody, or we protect everybody. And if they owe money, they should pay it. and if they don't, they don't."</p>
+    <p>The developers have said they are negotiating with the city to pay back the taxes.</p>
+    <p>Opponents of the center, which could include a swimming pool and a Sept. 11 memorial, have seized on the question of the project's funding, raising concerns that the money will come from overseas extremists or anti-American sources.</p>
+    <p>U.S. Rep. Peter King, a Republican who is the ranking minority leader of the Homeland Security Committee, said on Tuesday that he disagreed with the mayor. He said the question of financing is fundamental to assessing the Islamic center project's backers.</p>
+    <p>"A number of terror plots have emanated from mosques," he said, citing the 1993 bombing of the World Trade Center as one example.</p>
+    <p>Arrests of conspirators in the attack that killed six people and injured more than a thousand led FBI to a Brooklyn mosque, where core members of those involved in the 1993 plot worshipped and where Sheik Omar Abdel-Rahman sometimes led prayers. Abdel-Rahman was later convicted in the bombing.</p>
+    <p>King said he would call for churches or synagogues to undergo the same kind of scrutiny of their finances if there was evidence that terrorist plots were originating from them.</p>
+    <p>Developers of the planned Islamic center have pledged to hire "security consultants" to review potential contributors. A spokesman for the developers didn't immediately respond to an e-mailed request for comment Tuesday.</p>
+    <p>It is common for the finances of religious groups to come under scrutiny either by the Internal Revenue Service, law enforcement or government agencies that protect consumers against fraud.</p>
+    <p>Religious nonprofits operate under a complex system of IRS rules on compensation, spending and governance. The IRS can revoke the nonprofit status of any group found to be violating the regulations.</p>
+    <p>Muslim charities have come under especially intense scrutiny under U.S. counterterrorism efforts. Federal prosecutors have brought cases against several American-based Muslim nonprofits, and in a separate case last year, seized U.S. mosques whose property is owned by a foundation federal officials say is secretly controlled by the Iranian government.</p>
+    <p>___</p>
+    <p>Associated Press Religion Writer Rachel Zoll and Associated Press Reporters Sara Kugler Frazier and Cristian Salazar contributed to this report from New York City.</p>
+  </div>
+  <div>
+    <div class="categories">
+      <small>News Topics: <a href="http://topics.ap.org/v1/Tags.svc/Islam" rel="tag">Islam</a>, <a href="http://topics.ap.org/v1/Tags.svc/Religion+and+politics" rel="tag">Religion and politics</a>, <a href="http://topics.ap.org/v1/Tags.svc/Religion" rel="tag">Religion</a>, <a href="http://topics.ap.org/v1/Tags.svc/Government+and+politics" rel="tag">Government and politics</a>, <a href="http://topics.ap.org/v1/Tags.svc/Crime" rel="tag">Crime</a>, <a href="http://topics.ap.org/v1/Tags.svc/Social+affairs" rel="tag">Social affairs</a>, <a href="http://topics.ap.org/v1/Tags.svc/Religious+issues" rel="tag">Religious issues</a>, <a href="http://topics.ap.org/v1/Tags.svc/Social+issues" rel="tag">Social issues</a>, <a href="http://topics.ap.org/v1/Tags.svc/General+news" rel="tag">General news</a></small>
+    </div>
+    <br />
+    <div class="entities">
+      <small>People, Places and Companies: <a href="http://topics.ap.org/v1/Tags.svc/Michael+Bloomberg" rel="tag">Michael Bloomberg</a>, <a href="http://topics.ap.org/v1/Tags.svc/Peter+King" rel="tag">Peter King</a>, <a href="http://topics.ap.org/v1/Tags.svc/Omar+Abdel-Rahman" rel="tag">Omar Abdel-Rahman</a>, <a href="http://topics.ap.org/v1/Tags.svc/Dubai" rel="tag">Dubai</a>, <a href="http://topics.ap.org/v1/Tags.svc/New+York" rel="tag">New York</a>, <a href="http://topics.ap.org/v1/Tags.svc/New+York+City" rel="tag">New York City</a>, <a href="http://topics.ap.org/v1/Tags.svc/United+Arab+Emirates" rel="tag">United Arab Emirates</a>, <a href="http://topics.ap.org/v1/Tags.svc/United+States" rel="tag">United States</a>, <a href="http://topics.ap.org/v1/Tags.svc/Middle+East" rel="tag">Middle East</a>, <a href="http://topics.ap.org/v1/Tags.svc/North+America" rel="tag">North America</a></small>
+    </div>
+  </div>
+  <div class="geo">
+    <small>Lat: <span class="latitude">25.25222</span> Long: <span class="longitude">55.28</span></small>
+  </div>
+  <small>Copyright 2010 The <a rel="item-license" href="http://developer.ap.org/api_terms_of_use">Associated Press</a>. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</small>
+  <img src="http://analytics.apnewsregistry.com/analytics/V2/Image.svc/AP/E/prod/PC/Basic/RWS/api.ap.org/CAI/e3df6896521c47c2ae5ce932ff15d4aa/CVI/57fb0af8bcd84f08943f0d6d66ca3231/AT/A" width="1" height="1" alt="" />
+</div></div></content></entry><entry><id>urn:uuid:b1787e91-27a8-4765-a9a1-70d48e9f00df</id><title type="text">Stocks kick off new month with strong gains</title><updated>2010-09-01T13:35:43Z</updated><author><name>STEPHEN BERNARD</name></author><link rel="alternate" type="text/html" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-US-Wall-Street/id-pb1787e9127a84765a9a170d48e9f00df"/><category term="ec2d3b8088e810048c8ff8851349f9bd" label="Economic growth" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="4f7e0448857510048d0aff2260dd383e" label="Economy" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ec2d3b8088e810048c90f8851349f9bd" label="Economic outlook" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="60a5046088f9100480538503ef5018bd" label="Stock indices and averages" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="423aabbbf59849eda715caba12644e60" label="Financial crisis" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="523ae37888e910048f9ff8851349f9bd" label="Stock price movements" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ec308b2888e810048ca8f8851349f9bd" label="Employment figures" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ec30c9a888e810048cb4f8851349f9bd" label="Stock prices" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="c1b38b1d6fba0e4384b131bd27eab443" label="Accounting, tax preparation and payroll services" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ec2def3088e810048c94f8851349f9bd" label="Manufacturing sector performance" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="c8e409f8858510048872ff2260dd383e" label="Business" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="60a40e4888f91004804e8503ef5018bd" label="Stock markets" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="60a31c1888f91004804d8503ef5018bd" label="Financial markets" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="423aabbbf59849eda715caba12644e60" label="Financial crisis" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="5238c09888e910048f6ff8851349f9bd" label="Stock performance" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="5235a7a088e910048f29f8851349f9bd" label="Corporate stock" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="5234b57088e910048f12f8851349f9bd" label="Corporate capital" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="4d3302d8857510048d06ff2260dd383e" label="Corporate news" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ec2db49888e810048c93f8851349f9bd" label="Labor economy" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ec308b2888e810048ca8f8851349f9bd" label="Employment figures" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ec2def3088e810048c93f8851349f9bd" label="Leading economic indicators" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="02c8de008b301004867cbd945080b03e" label="Business and professional services" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="511dd198857510048d0fff2260dd383e" label="Industries" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="AUS" label="Australia" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="CHN" label="China" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="USA" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661908787d5b10048206c076b8e3055c" label="Australia" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="662218c87d5b100482f0c076b8e3055c" label="China" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e48387d5b10048291c076b8e3055c" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f3c076b8e3055c" label="Australia and Oceania" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661be2f07d5b1004824fc076b8e3055c" label="Greater China" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="66188f607d5b100481fec076b8e3055c" label="East Asia" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661812607d5b100481f3c076b8e3055c" label="Asia" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f7c076b8e3055c" label="North America" scheme="http://topics.ap.org/v1/Tags.svc"/><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div class="hnews hentry item">
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/679596f6bc0f330ed50e6a706700d028?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=8RUCLssFTtIshZgmGES2ja%2fZwuw%3d">
+      <img border="0" class="photo" alt="In this Aug. 10, 2010 photograph, specialist Frank Masiello, center, directs trades at his post on the floor of the New York Stock Exchange, in New York. Stock futures surged Wednesday, Sept. 1, 2010, after upbeat signs of growth in China and Australia lessened worries about a global economic slowdown. (AP Photo/Richard Drew)" src="http://ap.photos.prod.s3.amazonaws.com/9238b1a9bc0f330ed50e6a7067006ed0?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=5ujTnE3lpoLV%2bsngAcvySuGRQ3o%3d" />
+    </a>
+    <div class="fn">Wall Street</div>
+  </div>
+  <h4>
+    <a class="url entry-title" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-US-Wall-Street/id-pb1787e9127a84765a9a170d48e9f00df" rel="bookmark">Stocks kick off new month with strong gains</a>
+  </h4>
+  <div>
+    <small>  by <span class="author vcard"><a class="url fn" href="http://topics.ap.org/v1/Journalists.svc/STEPHEN+BERNARD">STEPHEN BERNARD</a></span>, <span class="source-org vcard"><a class="url org fn" href="http://www.ap.org">Associated Press</a></span><a rel="principles" title="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" href="http://www.ap.org/newsvalues/index.html"><img src="http://api.ap.org/v1/images/principles-book-blue.png " style="border-style:none;" alt="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" /></a> - <span class="updated dtstamp" title="2010-09-01T13:35:43Z">1 September 2010 13:35+00:00</span></small>
+  </div>
+  <div class="entry-content">
+    <p>
+      <abbr title="40.71427,-74.00597" class="dateline geo">NEW YORK</abbr>  (AP) — Stocks are surging to start the new month of trading after upbeat signs of growth in China and Australia alleviated worries about a global economic slowdown.</p>
+    <p>The big gains Tuesday are somewhat of a surprise after payroll company ADP said private employers cut 10,000 jobs last month. Stocks were hammered in August as economic reports regularly indicated domestic growth was slowing. The ADP report added to that evidence.</p>
+    <p>Traders are still waiting on a key monthly report on the manufacturing sector due out later in the day. It too is expected to show the U.S. economy is expanding, but at a sluggish pace.</p>
+    <p>The Dow Jones industrial average is up 127, or 1.3 percent, at 10,142. The S&amp;P 500 is up 14, or 1.3 percent, at 1,063, while the Nasdaq composite is up 34, or 1.6 percent, at 2,148.</p>
+    <p>THIS IS A BREAKING NEWS UPDATE. Check back soon for further information. AP's earlier story is below.</p>
+    <p>NEW YORK (AP) — Stock futures surged Wednesday after upbeat signs of growth in China and Australia alleviated worries about a global economic slowdown.</p>
+    <p>Futures retreated from their highs of the morning, but still pointed to a higher opening after payroll company ADP said private employers cut 10,000 jobs last month, a further signal that the domestic economy is struggling to grow.</p>
+    <p>Overseas markets rose sharply after reports showed the pace of growth in China's manufacturing sector rose in August for the first time in four months and Australia economy grew by the fastest pace in three years during the second quarter.</p>
+    <p>The sharp jump in U.S. stock futures is surprising given the disappointing ADP report and with the Institute for Supply Management releasing its monthly manufacturing report later in the day.</p>
+    <p>Often investors don't make big bets before key economic reports, particularly in recent weeks as data has consistently showed growth is slowing. Like the ADP report, the ISM data is expected to follow that trend.</p>
+    <p>Stocks have been volatile over the past month because traders are unsure about the direction of the economy. Data continues to point to meager growth, but exactly where the pace of growth settles remains a major question. By sending stocks lower throughout August though, traders were betting that weak growth will eventually be a drag on corporate earnings.</p>
+    <p>Ahead of the opening bell, Dow Jones industrial average futures rose 92, or 0.9 percent, to 10,098. Standard &amp; Poor's 500 index futures rose 11.70, or 1.1 percent, to 1,060.00, while Nasdaq 100 index futures rose 23.50, or 1.3 percent, to 1,790.00.</p>
+    <p>With stock markets rising worldwide, U.S. Treasury prices dropped and interest rates rose. The yield on the 10-year Treasury note, which moves opposite its price, fell to 2.51 percent from 2.47 percent late Tuesday. Its yield is often used as a gauge to set interest rates on mortgages and other consumer loans.</p>
+    <p>ADP said private employers cut jobs after adding a small amount of workers each of the past six months. Economists had expected employers added 19,000 jobs last month after hiring 37,000 in July.</p>
+    <p>Employers are avoiding making any new hires in large numbers because of the uncertain direction of the economy. They are also worried about the potential impact of government health care and financial regulation reforms as well as possible increases in taxes.</p>
+    <p>With unemployment still high, people concerned about their jobs have cut back on spending, which has further slowed growth.</p>
+    <p>The ADP report is often considered a gauge for the government's monthly employment report, which is due out Friday. The Labor Department's data also includes government employment so it is a broader reading on the jobs market.</p>
+    <p>Economists expect the government report to show 100,000 jobs were cut last month, but that was largely due to laying off temporary census workers. Private employers likely added just 41,000 jobs last month.</p>
+    <p>Overall, the unemployment rate is expected to have climbed to 9.6 percent last month from 9.5 percent in July.</p>
+    <p>Economists polled by Thomson Reuters forecast the ISM manufacturing index slipped to 53.0 in August from 55.5 a month earlier. Any reading above 50 indicates expansion in the sector.</p>
+    <p>Regional surveys of manufacturing activity in recent weeks also pointed to slowing growth in the sector, which had been among the strongest during the first half of the year.</p>
+    <p>Australia's S&amp;P/ASX 200 index jumped 2.1 percent on the upbeat growth report. Hong Kong's Hang Seng index rose 0.4 percent, while Japan's Nikkei stock average rose 1.2 percent.</p>
+    <p>European markets followed Asian markets higher. Britain's FTSE 100 rose 1.4 percent, Germany's DAX index gained 1 percent, and France's CAC-40 climbed 1.8 percent.</p>
+  </div>
+  <div>
+    <div class="categories">
+      <small>News Topics: <a href="http://topics.ap.org/v1/Tags.svc/Economic+growth" rel="tag">Economic growth</a>, <a href="http://topics.ap.org/v1/Tags.svc/Economy" rel="tag">Economy</a>, <a href="http://topics.ap.org/v1/Tags.svc/Economic+outlook" rel="tag">Economic outlook</a>, <a href="http://topics.ap.org/v1/Tags.svc/Stock+indices+and+averages" rel="tag">Stock indices and averages</a>, <a href="http://topics.ap.org/v1/Tags.svc/Financial+crisis" rel="tag">Financial crisis</a>, <a href="http://topics.ap.org/v1/Tags.svc/Stock+price+movements" rel="tag">Stock price movements</a>, <a href="http://topics.ap.org/v1/Tags.svc/Employment+figures" rel="tag">Employment figures</a>, <a href="http://topics.ap.org/v1/Tags.svc/Stock+prices" rel="tag">Stock prices</a>, <a href="http://topics.ap.org/v1/Tags.svc/Accounting%2c+tax+preparation+and+payroll+services" rel="tag">Accounting, tax preparation and payroll services</a>, <a href="http://topics.ap.org/v1/Tags.svc/Manufacturing+sector+performance" rel="tag">Manufacturing sector performance</a>, <a href="http://topics.ap.org/v1/Tags.svc/Business" rel="tag">Business</a>, <a href="http://topics.ap.org/v1/Tags.svc/Stock+markets" rel="tag">Stock markets</a>, <a href="http://topics.ap.org/v1/Tags.svc/Financial+markets" rel="tag">Financial markets</a>, <a href="http://topics.ap.org/v1/Tags.svc/Stock+performance" rel="tag">Stock performance</a>, <a href="http://topics.ap.org/v1/Tags.svc/Corporate+stock" rel="tag">Corporate stock</a>, <a href="http://topics.ap.org/v1/Tags.svc/Corporate+capital" rel="tag">Corporate capital</a>, <a href="http://topics.ap.org/v1/Tags.svc/Corporate+news" rel="tag">Corporate news</a>, <a href="http://topics.ap.org/v1/Tags.svc/Labor+economy" rel="tag">Labor economy</a>, <a href="http://topics.ap.org/v1/Tags.svc/Leading+economic+indicators" rel="tag">Leading economic indicators</a>, <a href="http://topics.ap.org/v1/Tags.svc/Business+and+professional+services" rel="tag">Business and professional services</a>, <a href="http://topics.ap.org/v1/Tags.svc/Industries" rel="tag">Industries</a></small>
+    </div>
+    <br />
+    <div class="entities">
+      <small>People, Places and Companies: <a href="http://topics.ap.org/v1/Tags.svc/Australia" rel="tag">Australia</a>, <a href="http://topics.ap.org/v1/Tags.svc/China" rel="tag">China</a>, <a href="http://topics.ap.org/v1/Tags.svc/United+States" rel="tag">United States</a>, <a href="http://topics.ap.org/v1/Tags.svc/Australia+and+Oceania" rel="tag">Australia and Oceania</a>, <a href="http://topics.ap.org/v1/Tags.svc/Greater+China" rel="tag">Greater China</a>, <a href="http://topics.ap.org/v1/Tags.svc/East+Asia" rel="tag">East Asia</a>, <a href="http://topics.ap.org/v1/Tags.svc/Asia" rel="tag">Asia</a>, <a href="http://topics.ap.org/v1/Tags.svc/North+America" rel="tag">North America</a></small>
+    </div>
+  </div>
+  <div class="geo">
+    <small>Lat: <span class="latitude">40.71427</span> Long: <span class="longitude">-74.00597</span></small>
+  </div>
+  <small>Copyright 2010 The <a rel="item-license" href="http://developer.ap.org/api_terms_of_use">Associated Press</a>. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</small>
+  <img src="http://analytics.apnewsregistry.com/analytics/V2/Image.svc/AP/E/prod/PC/Basic/RWS/api.ap.org/CAI/b1787e9127a84765a9a170d48e9f00df/CVI/0218b4b62f9e493aa644f112ecdb2833/AT/A" width="1" height="1" alt="" />
+</div></div></content></entry><entry><id>urn:uuid:e851bd5e-babf-46e7-b691-5610a63f7cf4</id><title type="text">Pakistan army cancels US trip amid search dispute</title><updated>2010-09-01T13:29:24Z</updated><author><name>CHRIS BRUMMITT</name></author><link rel="alternate" type="text/html" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-AS-Pakistan-US-Airport-Row/id-pe851bd5ebabf46e7b6915610a63f7cf4"/><category term="54026b8b8c5a4c40999505c7c0765270" label="Athar Abbas" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661f78e87d5b100482a9c076b8e3055c" label="Pakistan" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e48387d5b10048291c076b8e3055c" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="66188f607d5b100481ffc076b8e3055c" label="South Asia" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661812607d5b100481f3c076b8e3055c" label="Asia" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f7c076b8e3055c" label="North America" scheme="http://topics.ap.org/v1/Tags.svc"/><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div class="hnews hentry item">
+  <h4>
+    <a class="url entry-title" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-AS-Pakistan-US-Airport-Row/id-pe851bd5ebabf46e7b6915610a63f7cf4" rel="bookmark">Pakistan army cancels US trip amid search dispute</a>
+  </h4>
+  <div>
+    <small>  by <span class="author vcard"><a class="url fn" href="http://topics.ap.org/v1/Journalists.svc/CHRIS+BRUMMITT">CHRIS BRUMMITT</a></span>, <span class="source-org vcard"><a class="url org fn" href="http://www.ap.org">Associated Press</a></span><a rel="principles" title="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" href="http://www.ap.org/newsvalues/index.html"><img src="http://api.ap.org/v1/images/principles-book-blue.png " style="border-style:none;" alt="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" /></a> - <span class="updated dtstamp" title="2010-09-01T13:29:24Z">1 September 2010 13:29+00:00</span></small>
+  </div>
+  <div class="entry-content">
+    <p>
+      <abbr title="33.72148,73.04329" class="dateline geo">ISLAMABAD</abbr>  (AP) — Pakistan's military canceled a trip by officers to an annual meeting at U.S. Central Command after they were taken off a plane and subjected to "unwarranted security checks" at Dulles International Airport in Washington, a spokesman said Wednesday.</p>
+    <p>The dispute appeared to be a sign of the mistrust between the U.S. and Pakistani militaries, which are nominally allies in the fight against Taliban and al-Qaida but have long had an uneasy relationship.</p>
+    <p>The nine-member delegation was headed by a two-star Navy rear admiral. Its members were awaiting take off on a United Airlines flight to Tampa, Fla. - where Central Command is based - when the incident took place Monday, said army spokesman Maj. Gen. Athar Abbas.</p>
+    <p>The delegation was taken off the plane and subjected to "unwarranted security checks" that resulted in their missing their flight. They called military authorities in Pakistan who instructed them to return home, Abbas said.</p>
+    <p>United Airlines officials were not immediately available for comment.</p>
+    <p>Dawn newspaper reported that the delegation was taken of the plane after a passenger voiced concerns they may have posed a security threat. It quoted an unnamed security official as saying the officers "were treated like terrorists" and were not allowed to talk to anyone for two hours.</p>
+    <p>Increased checks at U.S. airports in response to the threat from Islamist militants after the Sept. 11 attacks are a sensitive issue for many Pakistanis, who frequently complain they are being unfairly singled out.</p>
+    <p>A group of Pakistani lawmakers on a State Department-sponsored visit to the United States in March returned home early after complaining of excessive security checks and were hailed as heroes by sections of the media on their return.</p>
+    <p>The United States has given the Pakistani army billions of dollars over the last 10 years to help it better fight militancy, but the country is very unpopular among many ordinary Pakistanis.</p>
+  </div>
+  <div>
+    <div class="entities">
+      <small>People, Places and Companies: <a href="http://topics.ap.org/v1/Tags.svc/Athar+Abbas" rel="tag">Athar Abbas</a>, <a href="http://topics.ap.org/v1/Tags.svc/Pakistan" rel="tag">Pakistan</a>, <a href="http://topics.ap.org/v1/Tags.svc/United+States" rel="tag">United States</a>, <a href="http://topics.ap.org/v1/Tags.svc/South+Asia" rel="tag">South Asia</a>, <a href="http://topics.ap.org/v1/Tags.svc/Asia" rel="tag">Asia</a>, <a href="http://topics.ap.org/v1/Tags.svc/North+America" rel="tag">North America</a></small>
+    </div>
+  </div>
+  <div class="geo">
+    <small>Lat: <span class="latitude">33.72148</span> Long: <span class="longitude">73.04329</span></small>
+  </div>
+  <small>Copyright 2010 The <a rel="item-license" href="http://developer.ap.org/api_terms_of_use">Associated Press</a>. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</small>
+  <img src="http://analytics.apnewsregistry.com/analytics/V2/Image.svc/AP/E/prod/PC/Basic/RWS/api.ap.org/CAI/e851bd5ebabf46e7b6915610a63f7cf4/CVI/b5decb80251241af81696585bc1ebb27/AT/A" width="1" height="1" alt="" />
+</div></div></content></entry><entry><id>urn:uuid:f75c517b-4e93-44a4-a0d7-a98e52e69464</id><title type="text">Michael Douglas optimistic about cancer recovery</title><updated>2010-09-01T13:21:57Z</updated><author><name>Associated Press</name><uri>http://www.ap.org</uri></author><link rel="alternate" type="text/html" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-US-TV-Douglas-Letterman/id-pf75c517b4e9344a4a0d7a98e52e69464"/><category term="b4ed19d87e5c10048565df092526b43e" label="Celebrity" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="e22524b87de410048f91df092526b43e" label="Cancer" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="c65ea93088bf10048ea3b097165a0203" label="Celebrity health" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="5b4319707dd310048b23df092526b43e" label="Entertainment" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="16cb0ba3e6d24d97ace39f5a1924669a" label="Arts and entertainment" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="e22284d87de410048f8ddf092526b43e" label="Diseases and conditions" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="cc7a76087e4e10048482df092526b43e" label="Health" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="24cfe7dd7e0f4f00b05b05203df416b7" label="Michael Douglas" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="f5cd5d53d70e4e8082314319c3ae2ed2" label="David Letterman" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="b7209f4848544761bdf560abbf9cad83" label="Catherine Zeta-Jones" scheme="http://topics.ap.org/v1/Tags.svc"/><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div class="hnews hentry item">
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/22cd82d7ba352a0ed50e6a7067008f66?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=pAkAZDhm48hX8nuY%2fUaRnBK4GOw%3d">
+      <img border="0" class="photo" alt="In this photo provided by CBS, Michael Douglas waves to the Late Show audience after a hug from host David Letterman during the Tuesday, Aug. 31, 2010 taping of the show in New York. Douglas said he faces an &quot;eight-week struggle&quot; against throat cancer but is optimistic about his chances for recovery. (AP Photo/CBS, John Paul Filo) MANDATORY CREDIT; NO SALES; NO ARCHIVE; NORTH AMERICAN USE ONLY" src="http://ap.photos.prod.s3.amazonaws.com/f96526beba342a0ed50e6a70670062bb?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=%2fD%2fNb%2f0QEWss6a1BjH4s0oM8%2bbE%3d" />
+    </a>
+    <div class="fn">TV Douglas Letterman</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/f4ce30d1b9d4280ed50e6a706700c484?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=AKH1zeghOAzgB8W1DPWO83WEXCM%3d">
+      <img border="0" class="photo" alt="FILE - In this June 10, 2010 file photo, actor Michael Douglas arrives at the AFI Lifetime Achievement Awards in Culver City, Calif. In an appearance Tuesday, Aug. 31, 2010 on David Letterman's &quot;Late Show,&quot; Douglas said he's begun treatment for throat cancer and that his odds of recovery are high. (AP Photo/Chris Pizzello, File)" src="http://ap.photos.prod.s3.amazonaws.com/7c482e7eb9d4280ed50e6a706700368b?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=qRTX5JI%2b%2fzXYiqL5IhEFJ75GNQY%3d" />
+    </a>
+    <div class="fn">TV Douglas Letterman</div>
+  </div>
+  <h4>
+    <a class="url entry-title" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-US-TV-Douglas-Letterman/id-pf75c517b4e9344a4a0d7a98e52e69464" rel="bookmark">Michael Douglas optimistic about cancer recovery</a>
+  </h4>
+  <div>
+    <small> <span class="source-org author vcard"><a class="url org fn" href="http://www.ap.org">Associated Press</a></span><a rel="principles" title="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" href="http://www.ap.org/newsvalues/index.html"><img src="http://api.ap.org/v1/images/principles-book-blue.png " style="border-style:none;" alt="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" /></a> - <span class="updated dtstamp" title="2010-09-01T13:21:57Z">1 September 2010 13:21+00:00</span></small>
+  </div>
+  <div class="entry-content">
+    <p>
+      <abbr title="40.71427,-74.00597" class="dateline geo">NEW YORK</abbr>  (AP) — Michael Douglas says he faces an "eight-week struggle" against throat cancer but is optimistic about his chances for recovery.</p>
+    <p>During an appearance Tuesday on David Letterman's "Late Show," the actor said he had just finished his first week of radiation and chemotherapy. That drew a surprised reaction from Letterman.</p>
+    <p>"You've never looked better to me, and this proves that you're a tough guy, for God's sakes," the talk-show host said, drawing cheers from the studio audience, according to a CBS news release.</p>
+    <p>"Let's just say ... I'm pretty lit up right now," Douglas replied.</p>
+    <p>The disease was diagnosed three weeks ago, he said, although he had complained of a very sore throat earlier this year and had undergone testing that failed to find a cause.</p>
+    <p>Douglas, 65, who has two children with Catherine Zeta-Jones, said he enjoyed the summer traveling with his family before returning to the doctor. A biopsy found he had late, stage-four cancer, "which is intense, and so they've had to go at it," he said.</p>
+    <p>However, Douglas said, the cancer remains above the neck and that means expectations are good, with an 80 percent or better chance of recovery.</p>
+    <p>Asked by Letterman about his personal habits, he said he had smoked and consumed alcohol.</p>
+    <p>According to a National Institutes of Health website, use of tobacco or alcohol are among the factors that put people at risk of developing throat cancer. Combining tobacco and drinking increases the risk.</p>
+    <p>Most throat cancer develops in people older than 50, with men more likely than women to get the disease, the NIH site says.</p>
+    <p>Letterman wished Douglas good luck, then said, "Wow, boy, I feel like I want to do something for you. Can I do something for you?"</p>
+    <p>"Ahh, give me a hug," Douglas responded, according to a CBS transcript.</p>
+    <p>Douglas stars in the upcoming film "Wall Street: Money Never Sleeps," a sequel to "Wall Street" (1987), for which he won a best-actor Oscar.</p>
+    <p>___</p>
+    <p>Online:</p>
+    <p>http:www.cbs.com</p>
+    <p>National Institutes of Health: http://health.nih.gov/</p>
+  </div>
+  <div>
+    <div class="categories">
+      <small>News Topics: <a href="http://topics.ap.org/v1/Tags.svc/Celebrity" rel="tag">Celebrity</a>, <a href="http://topics.ap.org/v1/Tags.svc/Cancer" rel="tag">Cancer</a>, <a href="http://topics.ap.org/v1/Tags.svc/Celebrity+health" rel="tag">Celebrity health</a>, <a href="http://topics.ap.org/v1/Tags.svc/Entertainment" rel="tag">Entertainment</a>, <a href="http://topics.ap.org/v1/Tags.svc/Arts+and+entertainment" rel="tag">Arts and entertainment</a>, <a href="http://topics.ap.org/v1/Tags.svc/Diseases+and+conditions" rel="tag">Diseases and conditions</a>, <a href="http://topics.ap.org/v1/Tags.svc/Health" rel="tag">Health</a></small>
+    </div>
+    <br />
+    <div class="entities">
+      <small>People, Places and Companies: <a href="http://topics.ap.org/v1/Tags.svc/Michael+Douglas" rel="tag">Michael Douglas</a>, <a href="http://topics.ap.org/v1/Tags.svc/David+Letterman" rel="tag">David Letterman</a>, <a href="http://topics.ap.org/v1/Tags.svc/Catherine+Zeta-Jones" rel="tag">Catherine Zeta-Jones</a></small>
+    </div>
+  </div>
+  <div class="geo">
+    <small>Lat: <span class="latitude">40.71427</span> Long: <span class="longitude">-74.00597</span></small>
+  </div>
+  <small>Copyright 2010 The <a rel="item-license" href="http://developer.ap.org/api_terms_of_use">Associated Press</a>. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</small>
+  <img src="http://analytics.apnewsregistry.com/analytics/V2/Image.svc/AP/E/prod/PC/Basic/RWS/api.ap.org/CAI/f75c517b4e9344a4a0d7a98e52e69464/CVI/ceb68f05d3a3469b88c78731ec9e1d79/AT/A" width="1" height="1" alt="" />
+</div></div></content></entry><entry><id>urn:uuid:d26fd76f-04be-4add-8e2a-bde884711c8b</id><title type="text">Nadal, Wozniacki advance after hot day at US Open</title><updated>2010-09-01T08:45:55Z</updated><author><name>EDDIE PELLS</name></author><link rel="alternate" type="text/html" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-TEN-US-Open/id-pd26fd76f04be4add8e2abde884711c8b"/><category term="2ef7392659734f7caa88bf7c49352476" label="U.S. Open Tennis Championship" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="039d42210158410db74f393deea38897" label="Men's sports" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="2ef6a884e303421caa3f988e23857b8e" label="Men's tennis" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="3065eadb5f954df69c27e176e584349e" label="Women's tennis" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="20dc74907e4e100488d4d0913b2d075c" label="Tennis" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="54df6c687df7100483dedf092526b43e" label="Sports" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="06a735407cb61004804eba7fa5283c3e" label="Events" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="2ef7392659734f7caa88bf7c49352476" label="U.S. Open Tennis Championship" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="2ef6a884e303421caa3f988e23857b8e" label="Men's tennis" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="3065eadb5f954df69c27e176e584349e" label="Women's tennis" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="20dcb3107e4e100488d9d0913b2d075c" label="Women's sports" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="37d634908ee010048cafa55c96277d3e" label="Rafael Nadal" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="87237b9d07244dedb8959cdda234f070" label="Caroline Wozniacki" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="cc2ef1ffb84a4ac3828f76c3b1a3c9a5" label="Maria Sharapova" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="39a8bfa9d4cd405e83c1e5e816c9da4f" label="Jarmila Groth" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="5093d1c2b7ba4914861c5853f100e7ac" label="Jelena Jankovic" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="9ad466584a8e40e0865727d8c4098992" label="Svetlana Kuznetsova" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="de8e3468aafc4abf873a8db4d6c06f42" label="Novak Djokovic" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="cbd95607d48246668e2f416c59753a56" label="Viktor Troicki" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="97138aa9abf949e59e361062ddce5146" label="Fernando Verdasco" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="16e86d8110e74a5c94c7643363e6065f" label="Fabio Fognini" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="22c8f22a929c4dbd825af09c667a3a14" label="Mardy Fish" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="3050ca72abb64bacaf8eef081ac58f92" label="Jan Hajek" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="338b59355f3a4ce1a7741460af1c7099" label="David Nalbandian" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="f72dae63b47b4b3d96e6e5e3409ddba8" label="Marcos Baghdatis" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="ab3cdeb3f63e4b398f353564b4ce56f0" label="Arnaud Clement" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661e48387d5b10048291c076b8e3055c" label="United States" scheme="http://topics.ap.org/v1/Tags.svc"/><category term="661850e07d5b100481f7c076b8e3055c" label="North America" scheme="http://topics.ap.org/v1/Tags.svc"/><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div class="hnews hentry item">
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/b3153bc1af55270ed50e6a706700dc8e?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=qZE2c9fZVk6X3qRgwcOuRJ5X7Nw%3d">
+      <img border="0" class="photo" alt="Maria Sharapova of Russia walks back to the service line during her match against Jarmila Groth of Australia in the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. (AP Photo/Paul J. Bereswill)" src="http://ap.photos.prod.s3.amazonaws.com/e4953f2baf55270ed50e6a706700d628?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=ovNbjxKwoU1rEq5zj%2bsy5GttOvA%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/3176306eaf54270ed50e6a70670029e9?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=8HWHt5LnFJvv8V9O6WkM86Ttvog%3d">
+      <img border="0" class="photo" alt="Maria Sharapova of Russia returns the ball to Jarmila Groth of Australia during the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. (AP Photo/Paul J. Bereswill)" src="http://ap.photos.prod.s3.amazonaws.com/6190bee8af54270ed50e6a706700a311?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=YV3rXlrYyBn7Ib1yWmL3JrRvgao%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/329c1933af59270ed50e6a7067001e1c?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=P0zHcqs4tAReHXwcMQilGY9YBTw%3d">
+      <img border="0" class="photo" alt="Jarmila Groth of Australia returns the ball to Maria Sharapova of Russia during the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. (AP Photo/Paul J. Bereswill)" src="http://ap.photos.prod.s3.amazonaws.com/5c07045aaf58270ed50e6a706700522f?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=uDlUHkiRWT5wwR9GgsLTI9qXKNU%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/54da10beaf41270ed50e6a706700fc92?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=7D3Zwb5W4hffBLfNgoujURyoREU%3d">
+      <img border="0" class="photo" alt="Novak Djokovic of Serbia lets out a yell after winning a set against Viktor Troicki of Serbia in the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. Djokovic won the match 6-3, 3-6, 2-6, 7-5, 6-3. (AP Photo/Paul J. Bereswill)" src="http://ap.photos.prod.s3.amazonaws.com/d6fe01b4af41270ed50e6a70670013a1?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608167&amp;Signature=5cYcYIpy5Pnu51y9ClyuKyuSKyw%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/ae66df9daf3f270ed50e6a7067002bba?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=heIfJOu2qZLYffvOpstcPWouub0%3d">
+      <img border="0" class="photo" alt="Viktor Troicki of Serbia pauses on the court after losing a point to Novak Djokovic of Serbia in the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. Djokovic won the match 6-3, 3-6, 2-6, 7-5, 6-3. (AP Photo/Paul J. Bereswill)" src="http://ap.photos.prod.s3.amazonaws.com/e15d4909af3f270ed50e6a7067008d3c?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=03fpdMAAScYe4%2fR4jFu1Kjw4b9s%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/ad8e9b8daf3a270ed50e6a706700608c?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=GXAsNVxrl6YRsDbyTeApBJZWJ4E%3d">
+      <img border="0" class="photo" alt="Novak Djokovic of Serbia returns the ball to Viktor Troicki of Serbia in the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. Djokovic won the match 6-3, 3-6, 2-6, 7-5, 6-3. (AP Photo/Paul J. Bereswill)" src="http://ap.photos.prod.s3.amazonaws.com/132dec7eaf3b270ed50e6a7067001066?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=4e%2fuT%2fNfJNVPX4RuFNqZ2Dpl688%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/86e1a859af2f270ed50e6a706700f755?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=8RDRrHRH5ao3nxh0fpj6cotegPg%3d">
+      <img border="0" class="photo" alt="Novak Djokovic of Serbia celebrates after beating Viktor Troicki of Serbia 6-3, 3-6, 2-6, 7-5, 6-3 in the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. (AP Photo/Paul J. Bereswill)" src="http://ap.photos.prod.s3.amazonaws.com/c05c70deaf2f270ed50e6a706700bd90?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=FJiMtdOgcqrp9ShgWGennoKYPDY%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/e4fcceceae54230ed50e6a706700b8a2?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=W5xN34YrKLZpamgfw4XVxJIPpuE%3d">
+      <img border="0" class="photo" alt="Jelena Jankovic of Serbia returns the ball to Simona Halep of Romania during the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. Jankovic won the match 6-4, 4-6, 7-5. (AP Photo/Paul J. Bereswill)" src="http://ap.photos.prod.s3.amazonaws.com/73bf0a33ae55230ed50e6a706700fd37?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=D8JS1KpZ5SS6vmsnhRkR6vvBgkA%3d" />
+    </a>
+    <div class="fn">APTOPIX US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/58531702ae5d230ed50e6a7067001f12?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=tYfjiuOBrCFklRH0ErAfJ2WflWs%3d">
+      <img border="0" class="photo" alt="Jelena Jankovic of Serbia puts a towel filled with ice around her neck between sets with Simona Halep of Romania during the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. Jankovic won the match 6-4, 4-6, 7-5. (AP Photo/Paul J. Bereswill)" src="http://ap.photos.prod.s3.amazonaws.com/cfb41856ae5e230ed50e6a706700a7c4?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=XrIQK0CdM%2fReYK1rmNtfuXAbdRs%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/e62f422fae50230ed50e6a706700c5e0?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=G6KeyR4FSz39MgSD0xuQdLYRpMg%3d">
+      <img border="0" class="photo" alt="Simona Halep of Romania pauses as she plays Jelena Jankovic of Serbia during the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. Jankovic won the match 6-4, 4-6, 7-5. (AP Photo/Paul J. Bereswill)" src="http://ap.photos.prod.s3.amazonaws.com/26e7a833ae51230ed50e6a706700de39?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608168&amp;Signature=Bl6HPmKg0lAQIfBXpOfPUIYXx3g%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/24e84623ae47220ed50e6a706700b125?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=yoBEfsJiqjZ7eXhZM6DclhKBPaw%3d">
+      <img border="0" class="photo" alt="Kimiko Date Krumm of Japan wipes her face as she plays Svetlana Kuznetsova of Russia during the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. (AP Photo/Kathy Willens)" src="http://ap.photos.prod.s3.amazonaws.com/710caae8ae47220ed50e6a7067008a7b?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=%2bMajDTSdf5%2fqwJMtwqtYBzwQNMo%3d" />
+    </a>
+    <div class="fn">APTOPIX US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/3ca258e8adcf200ed50e6a706700c942?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=zx10BbB7mYTqvii%2feHG0vPsyCU8%3d">
+      <img border="0" class="photo" alt="Svetlana Kuznetsova of Russia returns the ball to Kimiko Date Krumm of Japan during the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. (AP Photo/Kathy Willens)" src="http://ap.photos.prod.s3.amazonaws.com/69adee3eadcf200ed50e6a706700a439?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=0a5SdxiW7z9hLJWpEeL88Xc41qU%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/1527d9f8af34270ed50e6a7067001a8d?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=gb1VrF51ZCo%2bdESOBBYpDTI6x7U%3d">
+      <img border="0" class="photo" alt="Mardy Fish of the United States reaches for a return to Jan Hajek of Czech Republic during the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. (AP Photo/Kathy Willens)" src="http://ap.photos.prod.s3.amazonaws.com/400fee02af34270ed50e6a7067000262?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=IEbp7Qdv7SA6G0b6HJdYUR6yrKg%3d" />
+    </a>
+    <div class="fn">APTOPIX US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/fd3cb7bbaf4b270ed50e6a706700e251?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=2zX96JfKd%2bPdjJ7d%2f8nj1kv4mb8%3d">
+      <img border="0" class="photo" alt="James Blake of the United States shows his displeasure with a call as he plays Kristof Vliegen of Belgium during the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. Blake won the match 6-3, 6-2, 6-4. (AP Photo/Kathy Willens)" src="http://ap.photos.prod.s3.amazonaws.com/3039fe35af4c270ed50e6a7067002e76?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=luuqVYw8cc64yMkqYZMfLRGCC%2fI%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/0d8e2514af4f270ed50e6a70670028ba?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=a4LghTKSj5rpU4JdddYaA%2bU2%2bng%3d">
+      <img border="0" class="photo" alt="James Blake of the United States returns the ball to Kristof Vliegen of Belgium during the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. Blake won the match 6-3, 6-2, 6-4. (AP Photo/Kathy Willens)" src="http://ap.photos.prod.s3.amazonaws.com/48afaf6daf4f270ed50e6a7067005b68?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=JqjnYy31ktEl908t3qVXa6RkooE%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/50f337e5ba482a0ed50e6a70670059f7?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=fM318Ci2rUYHDG8m9HmWCi8m2PI%3d">
+      <img border="0" class="photo" alt="Rafael Nadal, of Spain, celebrates during the second set of his match against Teymuraz Gabashvili, of Russia, during the first round of the U.S. Open tennis tournament in New York, Tuesday, Aug. 31, 2010. (AP Photo/Henny Ray Abrams)" src="http://ap.photos.prod.s3.amazonaws.com/de36d09eba472a0ed50e6a706700b4f0?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=KMqi2CQsLPR6MMJgLscB3HeTAF8%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/e74956bdba9c2c0ed50e6a7067006339?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=piiojLE14QKgFT%2bPiHX9wSVZFm0%3d">
+      <img border="0" class="photo" alt="Caroline Wozniacki, of Denmark, returns to Chelsey Gullickson, of the United States, during the first round of the U.S. Open tennis tournament in New York, Wednesday, Sept. 1, 2010. (AP Photo/Henny Ray Abrams)" src="http://ap.photos.prod.s3.amazonaws.com/161e7590ba9d2c0ed50e6a7067008005?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608169&amp;Signature=P2hT2SsKhfm%2fCuBp8q78FSUE8Hc%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <div class="hmedia">
+    <a rel="enclosure" type="image/jpeg" href="http://ap.photos.prod.s3.amazonaws.com/88bfcea6baa52c0ed50e6a706700db33?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608170&amp;Signature=%2bR%2fg8A0ZfruVxWTgX8t6nqq9kgk%3d">
+      <img border="0" class="photo" alt="Chelsey Gullickson, of the United States, reacts during her first-round match against Caroline Wozniacki, of Denmark, at the U.S. Open tennis tournament in New York, Wednesday, Sept. 1, 2010. (AP Photo/Henny Ray Abrams)" src="http://ap.photos.prod.s3.amazonaws.com/5e0a78dfbaa52c0ed50e6a7067002fab?AWSAccessKeyId=AKIAIVNDKBD433TFUPUQ&amp;Expires=1283608170&amp;Signature=1DrnE3FlXMyVSyE7OX4jy5hpVNk%3d" />
+    </a>
+    <div class="fn">US Open Tennis</div>
+  </div>
+  <h4>
+    <a class="url entry-title" href="http://hosted2.ap.org/APDEFAULT/Article_2010-09-01-TEN-US-Open/id-pd26fd76f04be4add8e2abde884711c8b" rel="bookmark">Nadal, Wozniacki advance after hot day at US Open</a>
+  </h4>
+  <div>
+    <small>  by <span class="author vcard"><a class="url fn" href="http://topics.ap.org/v1/Journalists.svc/EDDIE+PELLS">EDDIE PELLS</a></span>, <span class="source-org vcard"><a class="url org fn" href="http://www.ap.org">Associated Press</a></span><a rel="principles" title="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" href="http://www.ap.org/newsvalues/index.html"><img src="http://api.ap.org/v1/images/principles-book-blue.png " style="border-style:none;" alt="THE ASSOCIATED PRESS STATEMENT OF NEWS VALUES AND PRINCIPLES" /></a> - <span class="updated dtstamp" title="2010-09-01T08:45:55Z">1 September 2010 08:45+00:00</span></small>
+  </div>
+  <div class="entry-content">
+    <p>
+      <abbr title="40.71427,-74.00597" class="dateline geo">NEW YORK</abbr>  (AP) — Day 2 at the U.S. Open was a day for the hot and tired.</p>
+    <p>The hot: Those who played in the glare of the punishing midday sun, when temperatures veered into the mid-90s and forced tournament officials to employ their extreme weather policy.</p>
+    <p>The tired: The 14 men and 28 women whose matches went the distance — that's five sets for men and three sets for women — including the first three matches in Arthur Ashe Stadium, where play ended at 12:53 a.m. Wednesday.</p>
+    <p>The highlight match of the long, steamy day at Flushing Meadows wound up being one that went straight sets but felt like something more. Top-seeded Rafael Nadal got a stern test from 93rd-ranked Teymuraz Gabashvili of Russia and needed 3 minutes short of 3 hours to defeat him 7-6 (4), 7-6 (4), 6-3.</p>
+    <p>"I prefer to play 1 hour, 10 minutes. Win easier, no?" Nadal said. "But no, one match is easy, especially in a big tournament. The pressure's there. You play against players that don't have much to lose, so they play aggressive. This is difficult to stop."</p>
+    <p>Nadal's match ended at 11:34 p.m. Tuesday, and left the top-seeded woman, Caroline Wozniacki, to finish out the night with a 6-1, 6-1 victory over Chelsey Gullickson in the only meeting of the five on the feature court, spanning almost 14 hours, that didn't have much drama.</p>
+    <p>"The matches before me were so long. Nobody expected that," said Wozniacki, who traded off between watching Nadal, reading a magazine and running in the gym while she waited. "But a win is a win. It doesn't matter what time I get on. As long as I win, I'm happy."</p>
+    <p>By the time Nadal took to the court, the sun had long gone down, though the temperature stayed up in the 80s. Gabashvili also did plenty to keep things uncomfortable for this year's French Open and Wimbledon champion.</p>
+    <p>Needing a U.S. Open title to complete his career Grand Slam, Nadal has long had a knack of making even the easy matches look hard. That's especially true on hard courts, where every violent stop, and every precise change of direction, comes with a vicious squeak that screams of the toll taken on the Spaniard's body. Against a game first-round foe, this one looked and sounded every bit that tough.</p>
+    <p>There were a total of seven break points through the first 32 games and neither player could convert. Nadal did what great players do — winning a few more key points in both the tiebreakers to take a two-set lead. But not until Gabashvili netted a forehand on ad-out in the seventh game of the third set did Nadal find a crack in his opponent's service game, and the opening he needed to close it out in straight sets.</p>
+    <p>Rafa said he was happy with his own service game, in which he faced only one break point and topped out at 131 mph. While many experts are giving him as good a shot as ever to break through at the U.S. Open, he knows he needs to amp up his serve to do it. It has been a long-term project.</p>
+    <p>"All my life, I've worked a lot on my serve," he said. "Not (just) this summer, all my life."</p>
+    <p>Well before Nadal began, on-court temperatures reached near 110 and tournament officials put the extreme weather policy in play, meaning women could ask for a 10-minute break after splitting sets.</p>
+    <p>There were plenty of opportunities.</p>
+    <p>No. 14 Maria Sharapova got off to a slow start in Ashe Stadium before rallying for a 4-6, 6-3, 6-1 over Jarmila Groth of Australia.</p>
+    <p>"Days like this where your opponent was playing really well, you really have to find ways to hang in there and ways to fight," Sharapova said. "And at the end of the day, you just hope you give yourself another opportunity."</p>
+    <p>She did, as did No. 4 Jelena Jankovic and No. 11 Svetlana Kuznetsova, each of whom needed three sets in the heat to fight off their first-round foes.</p>
+    <p>"The conditions were tough," Jankovic said. "But I didn't want to think about that. I just wanted to focus as much as I could on the match and play each point one point at a time."</p>
+    <p>Another long one in Ashe Stadium was No. 3 Novak Djokovic's 6-3, 3-6, 2-6, 7-5, 6-3 victory over friend and fellow Serbian Viktor Troicki. The match took 3 hours, 40 minutes and Djokovic felt the heat.</p>
+    <p>"You kind of start panicking a little bit when you don't feel great physically and your opponent takes advantage," he said.</p>
+    <p>Also needing five sets was No. 8 Fernando Verdasco, who defeated Fabio Fognini of Italy, 1-6, 7-5, 6-1, 4-6, 6-3.</p>
+    <p>"I got lucky, because the shadows were on the court for a lot of my match," Verdasco said. "But it was hot. It's the same for both players, so you just see what it is and go out and play."</p>
+    <p>No. 19 Mardy Fish had a bizarre five-set win against Jan Hajek. The score: 6-0, 3-6, 4-6, 6-0, 6-1.</p>
+    <p>"Yes, it's hot. This is probably the hottest it's gonna be here," said the American, who has lost about 30 pounds and can credit his improved fitness for his leap up the rankings, and his ability to hang in there on Tuesday.</p>
+    <p>No. 31 David Nalbandian needed five sets for his victory over Rik de Voest. No. 16 Marcos Baghdatis lost in five to Arnaud Clement of France.</p>
+    <p>"Tell you the truth, OK, it was hot, but, I mean, we play so many matches in the heat, I cannot tell you," Baghdatis said when asked if his 3-hour, 27-minute stay in Armstrong Stadium was one of his hottest matches ever. "I cannot rank today's heat."</p>
+    <p>The weather is supposed to be equally brutal on Wednesday and Thursday, then a change.</p>
+    <p>Tournament officials are already looking south to see how Hurricane Earl, making its way up the East Coast, might affect things. There's a 60 percent chance of heavy rain on Friday, the possibility of at least a one-day break. If there are more days like Day 2, it's hard to imagine many would complain.</p>
+  </div>
+  <div>
+    <div class="categories">
+      <small>News Topics: <a href="http://topics.ap.org/v1/Tags.svc/U.S.+Open+Tennis+Championship" rel="tag">U.S. Open Tennis Championship</a>, <a href="http://topics.ap.org/v1/Tags.svc/Men%27s+sports" rel="tag">Men's sports</a>, <a href="http://topics.ap.org/v1/Tags.svc/Men%27s+tennis" rel="tag">Men's tennis</a>, <a href="http://topics.ap.org/v1/Tags.svc/Women%27s+tennis" rel="tag">Women's tennis</a>, <a href="http://topics.ap.org/v1/Tags.svc/Tennis" rel="tag">Tennis</a>, <a href="http://topics.ap.org/v1/Tags.svc/Sports" rel="tag">Sports</a>, <a href="http://topics.ap.org/v1/Tags.svc/Events" rel="tag">Events</a>, <a href="http://topics.ap.org/v1/Tags.svc/Women%27s+sports" rel="tag">Women's sports</a></small>
+    </div>
+    <br />
+    <div class="entities">
+      <small>People, Places and Companies: <a href="http://topics.ap.org/v1/Tags.svc/Rafael+Nadal" rel="tag">Rafael Nadal</a>, <a href="http://topics.ap.org/v1/Tags.svc/Caroline+Wozniacki" rel="tag">Caroline Wozniacki</a>, <a href="http://topics.ap.org/v1/Tags.svc/Maria+Sharapova" rel="tag">Maria Sharapova</a>, <a href="http://topics.ap.org/v1/Tags.svc/Jarmila+Groth" rel="tag">Jarmila Groth</a>, <a href="http://topics.ap.org/v1/Tags.svc/Jelena+Jankovic" rel="tag">Jelena Jankovic</a>, <a href="http://topics.ap.org/v1/Tags.svc/Svetlana+Kuznetsova" rel="tag">Svetlana Kuznetsova</a>, <a href="http://topics.ap.org/v1/Tags.svc/Novak+Djokovic" rel="tag">Novak Djokovic</a>, <a href="http://topics.ap.org/v1/Tags.svc/Viktor+Troicki" rel="tag">Viktor Troicki</a>, <a href="http://topics.ap.org/v1/Tags.svc/Fernando+Verdasco" rel="tag">Fernando Verdasco</a>, <a href="http://topics.ap.org/v1/Tags.svc/Fabio+Fognini" rel="tag">Fabio Fognini</a>, <a href="http://topics.ap.org/v1/Tags.svc/Mardy+Fish" rel="tag">Mardy Fish</a>, <a href="http://topics.ap.org/v1/Tags.svc/Jan+Hajek" rel="tag">Jan Hajek</a>, <a href="http://topics.ap.org/v1/Tags.svc/David+Nalbandian" rel="tag">David Nalbandian</a>, <a href="http://topics.ap.org/v1/Tags.svc/Marcos+Baghdatis" rel="tag">Marcos Baghdatis</a>, <a href="http://topics.ap.org/v1/Tags.svc/Arnaud+Clement" rel="tag">Arnaud Clement</a>, <a href="http://topics.ap.org/v1/Tags.svc/United+States" rel="tag">United States</a>, <a href="http://topics.ap.org/v1/Tags.svc/North+America" rel="tag">North America</a></small>
+    </div>
+  </div>
+  <div class="geo">
+    <small>Lat: <span class="latitude">40.71427</span> Long: <span class="longitude">-74.00597</span></small>
+  </div>
+  <small>Copyright 2010 The <a rel="item-license" href="http://developer.ap.org/api_terms_of_use">Associated Press</a>. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</small>
+  <img src="http://analytics.apnewsregistry.com/analytics/V2/Image.svc/AP/E/prod/PC/Basic/RWS/api.ap.org/CAI/d26fd76f04be4add8e2abde884711c8b/CVI/08fe9df5f5944f3f84143ee0a48d646f/AT/A" width="1" height="1" alt="" />
+</div></div></content></entry></feed>
