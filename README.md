@@ -15,7 +15,7 @@ Return a list of each story in the feed, where the story (can be Class or Dict, 
   * Caption (not including any credit information, like AP Photo)
   * Credit information
   * URL to the image
-* Content: The HTML content of the article. Strip the surrounding <div> such that it's just a sequence of <p> tags. Also:
+* Content: The HTML content of the article. Strip the surrounding `<div>` such that it's just a sequence of `<p>` tags. Also:
   * Add class='first' to the first paragraph
   * Add class='last' to the final paragraph
 
